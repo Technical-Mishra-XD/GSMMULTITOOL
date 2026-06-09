@@ -1,0 +1,10 @@
+{
+  "xiaomi_auth": {
+    "status": "online",
+    "credit": 3
+  },
+  "realme_auth": {
+    "status": "offline",
+    "credit": 0
+  }
+}
