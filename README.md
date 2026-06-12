@@ -11,11 +11,7 @@
 
 <br/>
 
-> 🚀 **Fast • Secure • Professional • Technician-Focused Tool Suite**
-
-<br/>
-<br/>
-<br/>
+>  **Fast • Secure • Professional • Technician-Focused Tool Suite**
 <br/>
 
 <div align="center">
