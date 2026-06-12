@@ -28,5 +28,6 @@
     "[2026-06-12 19:11:41] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 9999879.0",
     "[2026-06-12 19:13:41] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 9999879.0",
     "[2026-06-12 19:19:05] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 9999879.0",
-    "[2026-06-12 19:19:40] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 9999876.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : NBV8DMAQYTMFZDCA\nDevice Model : lake_global\nConnecting to Authentication Server...\nServer Authentication: OK\nErase FRP & Userdata...\nRebooting device...\nOperation Successful! Elapsed Time: 29s\n"
+    "[2026-06-12 19:19:40] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 9999876.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : NBV8DMAQYTMFZDCA\nDevice Model : lake_global\nConnecting to Authentication Server...\nServer Authentication: OK\nErase FRP & Userdata...\nRebooting device...\nOperation Successful! Elapsed Time: 29s\n",
+    "[2026-06-12 19:24:17] USER LOGOUT: admin | Email: admin@gmail.com | Credit: 9999876.0"
 ]
