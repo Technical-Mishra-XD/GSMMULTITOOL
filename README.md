@@ -15,29 +15,15 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
----
 <div align="center">
 
----
+### ⬇️ Download Latest Version
 
-## ⚡ GSM Multi Tool PRO
-
-### 🧠 Built for Technicians • Fast • Secure • Reliable
-
----
-
-![Version](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=0A84FF)
-![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO/total?style=for-the-badge&color=00C853)
-![Platform](https://img.shields.io/badge/Windows-Supported-0078D6?style=for-the-badge)
-
----
-
-### 💎 **Technical Mishra XD**
-⚡ Nepal 🇳🇵 | GSM Tools Developer | Software Automation
-
----
-
-### 🚀 “Simple. Fast. Powerful.”
+<a href="https://github.com/Technical-Mishra-XD/GSMMULTITOOL/releases/download/v1.4/Gsm_multi_v4.exe">
+  <img src="https://img.shields.io/badge/Download-GSM%20Multi%20Tool%20PRO%20v1.4-00C853?style=for-the-badge&logo=download" />
+</a>
 
 </div>
