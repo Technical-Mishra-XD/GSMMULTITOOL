@@ -37,5 +37,6 @@
     "[2026-06-12 20:30:38] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 3.0",
     "[2026-06-12 20:30:51] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 0.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : ZH55BEY96LUWR8GM\nDevice Model : tornado_in_global\nConnecting to Authentication Server...\nServer Authentication: OK\nErase FRP & Userdata...\nRebooting device...\nOperation Successful! Elapsed Time: 6s\n",
     "[2026-06-12 20:38:40] USER LOGIN: www | Email: gsmbabamahakal@gmail.com | Total Credit: 0.0",
-    "[2026-06-12 20:39:26] USER LOGOUT: www | Email: gsmbabamahakal@gmail.com | Credit: 500.0"
+    "[2026-06-12 20:39:26] USER LOGOUT: www | Email: gsmbabamahakal@gmail.com | Credit: 500.0",
+    "[2026-06-12 20:39:32] USER LOGIN: www | Email: gsmbabamahakal@gmail.com | Total Credit: 500.0"
 ]
