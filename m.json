@@ -84,5 +84,6 @@
     "[2026-06-12 23:04:03] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Device Not Detected",
     "[2026-06-12 23:06:12] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 3.0",
     "[2026-06-12 23:10:00] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 0.0",
-    "[2026-06-12 23:10:39] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 10.0"
+    "[2026-06-12 23:10:39] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 10.0",
+    "[2026-06-12 23:10:57] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 7.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : 87467f1d\nDevice Model : flame_in_global\nConnecting to Authentication Server...\nServer Authentication: OK (Balance: 71)\nErasing FRP...\nFRP Format: OK\nErasing Userdata...\nUserdata Erase Failed: closed at BismillahAdb.AdbSocket.SendCmd(String command) at BismillahAdb.AdbClient.Exec(String command)\nRebooting device...\nReboot Command Sent: OK\n\u2705 Operation Successful! Time: 12s | Balance: 71\n"
 ]
