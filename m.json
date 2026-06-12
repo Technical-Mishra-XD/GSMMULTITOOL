@@ -58,5 +58,6 @@
     "[2026-06-12 20:54:45] START XIAOMI FRP OPERATION: aliirshad374@gmail.com | Credit: 3.0",
     "[2026-06-12 20:55:13] XIAOMI FRP SUCCESS: aliirshad374@gmail.com | Credit: 0.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : V4AQG6GMKN85OJ6D\nDevice Model : beryl_in_global\nConnecting to Authentication Server...\nServer Authentication: OK\nErase FRP & Userdata...\nRebooting device...\nOperation Successful! Elapsed Time: 20s\n",
     "[2026-06-12 20:56:27] USER LOGOUT: Irshad ali | Email: aliirshad374@gmail.com | Credit: 0.0",
-    "[2026-06-12 21:13:16] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 247.0"
+    "[2026-06-12 21:13:16] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 247.0",
+    "[2026-06-12 21:14:30] XIAOMI FRP READ FAILED: arifmohdkhan53@gmail.com | Error: Device Not Detected"
 ]
