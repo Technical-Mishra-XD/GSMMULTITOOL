@@ -17,42 +17,27 @@
 <br/>
 
 ---
-
-### 📥 Download Now
-
-<p align="center">
-  <a href="https://github.com/Technical-Mishra-XD/GSMMULTITOOL/releases/download/v1.4/Gsm_multi_v4.exe" style="display: inline-block; background: #0A84FF; color: white; padding: 12px 28px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 18px; margin: 20px 0;">
-    ⬇️ Download GSM Multi Tool v1.4
-  </a>
-  <br/>
-  <small>Version: 1.4 | Size: [File Size] | Platform: Windows</small>
-</p>
+<div align="center">
 
 ---
 
-### 🔗 Quick Links
+## ⚡ GSM Multi Tool PRO
 
-<p align="center">
-  <a href="#">📖 Documentation</a> •
-  <a href="#">❓ Support</a> •
-  <a href="#">🐛 Report Issue</a> •
-  <a href="#">⭐ Star on GitHub</a>
-</p>
+### 🧠 Built for Technicians • Fast • Secure • Reliable
 
 ---
 
-### 📋 Footer
+![Version](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=0A84FF)
+![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO/total?style=for-the-badge&color=00C853)
+![Platform](https://img.shields.io/badge/Windows-Supported-0078D6?style=for-the-badge)
 
-<p align="center">
-  <small>
-    <strong>GSM Multi Tool PRO</strong> | Developed by Technical Mishra XD<br/>
-    <strong>Direct Download:</strong> 
-    <a href="https://github.com/Technical-Mishra-XD/GSMMULTITOOL/releases/download/v1.4/Gsm_multi_v4.exe">
-      gsm_multi_v4.exe
-    </a>
-    <br/>
-    © 2025 GSM Multi Tool Suite | All tools are for authorized service use only
-  </small>
-</p>
+---
+
+### 💎 **Technical Mishra XD**
+⚡ Nepal 🇳🇵 | GSM Tools Developer | Software Automation
+
+---
+
+### 🚀 “Simple. Fast. Powerful.”
 
 </div>
