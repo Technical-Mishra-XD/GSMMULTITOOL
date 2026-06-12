@@ -27,6 +27,12 @@
       "user_id": 1,
       "message": "Database is working perfectly!",
       "created_at": "2026-06-12T18:47:24.487713"
+    },
+    {
+      "id": 3,
+      "user_id": 2,
+      "message": "Testing from Python script",
+      "created_at": "2026-06-12T18:47:27.142671"
     }
   ],
   "logs": [
@@ -39,6 +45,11 @@
       "action": "message",
       "user_id": 1,
       "timestamp": "2026-06-12T18:47:24.487713"
+    },
+    {
+      "action": "message",
+      "user_id": 2,
+      "timestamp": "2026-06-12T18:47:27.142671"
     }
   ]
 }
