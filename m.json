@@ -241,5 +241,6 @@
     "[2026-06-13 21:41:55] XIAOMI FRP FAILED/AUTH_FAIL: arifmohdkhan53@gmail.com | Credit: 18.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 7ae14370\nModel: warm_in_global\nMi Token: 0VQEBHgEQM2FiNWJkZWIyMThlODRmNAIEW381+gMEd2FybQ==\n\nGenerating blob key... OK\nError: Connection timed out (60s)\n",
     "[2026-06-13 21:43:46] XIAOMI FRP SUCCESS: arifmohdkhan53@gmail.com | Credit: 12.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: I7ZTKFNR8DH6X8N7\nModel: rodin_in_global\nMi Token: PVQECNwEQMDE2MTBkNjMyZDk0Y2ExNQIcjSqeifv2ce5WrpHitN+DRUY2HKa/1Bi/qVDCGgMFcm9kaW4=\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 9s\n",
     "[2026-06-13 21:45:09] XIAOMI FRP CANCELLED: arifmohdkhan53@gmail.com | Credit: 12.0",
-    "[2026-06-14 00:02:19] USER LOGIN: aman_guru | Email: myamttool@gmail.com | Total Credit: 0.0"
+    "[2026-06-14 00:02:19] USER LOGIN: aman_guru | Email: myamttool@gmail.com | Total Credit: 0.0",
+    "[2026-06-14 00:08:39] USER LOGOUT: aman_guru | Email: myamttool@gmail.com | Credit: 0.0"
 ]
