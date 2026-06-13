@@ -175,5 +175,6 @@
     "[2026-06-13 13:45:16] XIAOMI FRP SUCCESS: gsmfileshop@gmail.com | Credit: 27.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 6T99I7EACINJQ4KN\nModel: air_in_global\nMi Token: LVQECNQEQMjQ5Zjg5OTg2OWUwMzY4YwIcnQDzn7QamoRUzQh8GA1tvJ5RQuEMtPelxI9XYQMDYWly\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 13s\n",
     "[2026-06-13 13:46:59] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 30.0",
     "[2026-06-13 13:47:15] XIAOMI FRP SUCCESS: arifmohdkhan53@gmail.com | Credit: 27.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : HJ610L037164\nDevice Model : arctic_global\nConnecting to Authentication Server...\nServer Authentication: OK\nErase FRP & Userdata...\nRebooting device...\nOperation Successful! Elapsed Time: 8s\n",
-    "[2026-06-13 13:50:47] USER LOGOUT: princeshad | Email: arifmohdkhan53@gmail.com | Credit: 27.0"
+    "[2026-06-13 13:50:47] USER LOGOUT: princeshad | Email: arifmohdkhan53@gmail.com | Credit: 27.0",
+    "[2026-06-13 14:09:45] USER LOGIN: jeevesh1990 | Email: Jeevesh101@gmail.com | Total Credit: 0.0"
 ]
