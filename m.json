@@ -137,5 +137,6 @@
     "[2026-06-13 11:31:11] USER LOGIN: djradhey | Email: djradhey70@gmail.com | Total Credit: 30.0",
     "[2026-06-13 11:31:30] START XIAOMI FRP OPERATION: djradhey70@gmail.com | Credit: 30.0",
     "[2026-06-13 11:31:32] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: Object reference not set to an instance of an object.\r\n   at BismillahAdb.AdbSocket.Write(Byte[] data, Int32 size)\r\n   at BismillahAdb.AdbSocket.WriteString(String text)\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()",
-    "[2026-06-13 11:31:52] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: unknown host service\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()"
+    "[2026-06-13 11:31:52] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: unknown host service\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()",
+    "[2026-06-13 11:50:56] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 3.0"
 ]
