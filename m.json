@@ -183,5 +183,6 @@
     "[2026-06-13 14:25:50] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: Object reference not set to an instance of an object.\r\n   at BismillahAdb.AdbSocket.Write(Byte[] data, Int32 size)\r\n   at BismillahAdb.AdbSocket.WriteString(String text)\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()",
     "[2026-06-13 14:48:13] USER LOGIN: mrsilent | Email: beebeksharma12w@gmail.com | Total Credit: 50.0",
     "[2026-06-13 15:04:34] USER LOGIN: gsmdc | Email: gsmdc700@gmail.com | Total Credit: 0.0",
-    "[2026-06-13 16:07:21] USER LOGIN: Irshad ali | Email: aliirshad374@gmail.com | Total Credit: 0.0"
+    "[2026-06-13 16:07:21] USER LOGIN: Irshad ali | Email: aliirshad374@gmail.com | Total Credit: 0.0",
+    "[2026-06-13 16:12:32] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 27.0"
 ]
