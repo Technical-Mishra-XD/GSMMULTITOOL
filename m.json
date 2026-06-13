@@ -233,5 +233,6 @@
     "[2026-06-13 20:45:30] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 18.0",
     "[2026-06-13 20:45:36] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 18.0",
     "[2026-06-13 20:45:46] XIAOMI FRP FAILED/AUTH_FAIL: arifmohdkhan53@gmail.com | Credit: 18.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: I7ZTKFNR8DH6X8N7\nModel: rodin_in_global\nMi Token: PVQECNwEQM2Y3NmFiNTUyOWRhYmQyYwIcjSqeifv2ce5WrpHitN+DRUY2HKa/1Bi/qVDCGgMFcm9kaW4=\n\nGenerating blob key... OK\nServer Error: This service (ID: 2) is currently disabled.\n",
-    "[2026-06-13 21:03:20] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 7.0"
+    "[2026-06-13 21:03:20] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 7.0",
+    "[2026-06-13 21:04:41] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Read Error: [WinError 2] The system cannot find the file specified"
 ]
