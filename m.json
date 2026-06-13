@@ -186,5 +186,6 @@
     "[2026-06-13 16:07:21] USER LOGIN: Irshad ali | Email: aliirshad374@gmail.com | Total Credit: 0.0",
     "[2026-06-13 16:12:32] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 27.0",
     "[2026-06-13 16:15:20] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 27.0",
-    "[2026-06-13 16:15:40] XIAOMI FRP SUCCESS: arifmohdkhan53@gmail.com | Credit: 24.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: Z5KZFUCAQ4CQJBCU\nModel: air_in_global\nMi Token: LVQECNQEQNDQ0ZjQ0NDg3YjZiMjA0ZQIcVKBbOYJoBaHMYcuioCs/kCyAYZ1+fFglcpPNowMDYWly\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 15s\n"
+    "[2026-06-13 16:15:40] XIAOMI FRP SUCCESS: arifmohdkhan53@gmail.com | Credit: 24.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: Z5KZFUCAQ4CQJBCU\nModel: air_in_global\nMi Token: LVQECNQEQNDQ0ZjQ0NDg3YjZiMjA0ZQIcVKBbOYJoBaHMYcuioCs/kCyAYZ1+fFglcpPNowMDYWly\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 15s\n",
+    "[2026-06-13 16:16:57] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 24.0"
 ]
