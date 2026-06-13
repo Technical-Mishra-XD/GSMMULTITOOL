@@ -89,5 +89,6 @@
     "[2026-06-13 09:15:56] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 5000.0",
     "[2026-06-13 09:16:26] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 5000.0",
     "[2026-06-13 09:16:54] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 5000.0",
-    "[2026-06-13 09:18:53] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 5000.0"
+    "[2026-06-13 09:18:53] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 5000.0",
+    "[2026-06-13 09:18:56] XIAOMI FRP READ FAILED: gsmgopalnepal1@gmail.com | Error: Read Error: Object reference not set to an instance of an object.\r\n   at BismillahAdb.AdbSocket.Write(Byte[] data, Int32 size)\r\n   at BismillahAdb.AdbSocket.WriteString(String text)\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()"
 ]
