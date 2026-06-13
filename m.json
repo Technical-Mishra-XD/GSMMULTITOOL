@@ -103,5 +103,6 @@
     "[2026-06-13 10:57:28] START XIAOMI FRP OPERATION: djradhey70@gmail.com | Credit: 30.0",
     "[2026-06-13 10:57:30] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: Object reference not set to an instance of an object.\r\n   at BismillahAdb.AdbSocket.Write(Byte[] data, Int32 size)\r\n   at BismillahAdb.AdbSocket.WriteString(String text)\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()",
     "[2026-06-13 10:57:44] START XIAOMI FRP OPERATION: djradhey70@gmail.com | Credit: 30.0",
-    "[2026-06-13 10:57:46] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: Object reference not set to an instance of an object.\r\n   at BismillahAdb.AdbSocket.Write(Byte[] data, Int32 size)\r\n   at BismillahAdb.AdbSocket.WriteString(String text)\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()"
+    "[2026-06-13 10:57:46] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: Object reference not set to an instance of an object.\r\n   at BismillahAdb.AdbSocket.Write(Byte[] data, Int32 size)\r\n   at BismillahAdb.AdbSocket.WriteString(String text)\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()",
+    "[2026-06-13 10:57:58] START XIAOMI FRP OPERATION: djradhey70@gmail.com | Credit: 30.0"
 ]
