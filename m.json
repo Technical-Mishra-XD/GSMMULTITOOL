@@ -97,5 +97,6 @@
     "[2026-06-13 09:27:51] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 0.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : c9544cfb0def\nDevice Model : veux_in_global\nConnecting to Authentication Server...\nServer Authentication: OK (Balance: 70)\nErasing FRP...\nFRP Format: OK\nErasing Userdata...\nDevice resetting - userdata already cleared\nRebooting device...\nReboot Command Sent: OK\n\u2705 Operation Successful! Time: 12s | Balance: 70\n",
     "[2026-06-13 09:45:40] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 0.0",
     "[2026-06-13 09:54:45] USER LOGOUT: princeshad | Email: arifmohdkhan53@gmail.com | Credit: 0.0",
-    "[2026-06-13 09:54:53] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 300.0"
+    "[2026-06-13 09:54:53] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 300.0",
+    "[2026-06-13 10:55:31] USER LOGIN: djradhey | Email: djradhey70@gmail.com | Total Credit: 0.0"
 ]
