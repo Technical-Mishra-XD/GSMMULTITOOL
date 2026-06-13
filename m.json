@@ -134,5 +134,6 @@
     "[2026-06-13 11:23:27] USER LOGIN: djradhey | Email: djradhey70@gmail.com | Total Credit: 30.0",
     "[2026-06-13 11:42:41] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 3.0",
     "[2026-06-13 11:43:05] XIAOMI FRP FAILED/AUTH_FAIL: admin@gmail.com | Credit: 3.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : HK614L111228\nDevice Model : arctic_global\nConnecting to Authentication Server...\nServer Authentication: OK (Balance: 69)\nErasing FRP...\nFRP Format Failed: device 'HK614L111228' not found at BismillahAdb.AdbSocket.SendCommand(String command) at BismillahAdb.AdbClient.SetDevice(AdbSocket adbSocket) at BismillahAdb.AdbClient.Exec(String command)\nCredits Refunded: 3.00\n",
-    "[2026-06-13 11:31:11] USER LOGIN: djradhey | Email: djradhey70@gmail.com | Total Credit: 30.0"
+    "[2026-06-13 11:31:11] USER LOGIN: djradhey | Email: djradhey70@gmail.com | Total Credit: 30.0",
+    "[2026-06-13 11:31:30] START XIAOMI FRP OPERATION: djradhey70@gmail.com | Credit: 30.0"
 ]
