@@ -228,5 +228,6 @@
     "[2026-06-13 19:35:17] START XIAOMI FRP OPERATION: gsmfileshop@gmail.com | Credit: 24.0",
     "[2026-06-13 19:35:39] XIAOMI FRP SUCCESS: gsmfileshop@gmail.com | Credit: 21.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: PFYLEYN7VGNJNRMV\nModel: beryl_in_global\nMi Token: PVQECNwEQN2RjN2QzZGE0M2IxNGEzOQIcuJ1esCNrmmqQXhFnOni9nhY6KcigUBQ4H5CRZwMFYmVyeWw=\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 17s\n",
     "[2026-06-13 20:40:53] USER LOGOUT: princeshad | Email: arifmohdkhan53@gmail.com | Credit: 18.0",
-    "[2026-06-13 20:44:14] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 18.0"
+    "[2026-06-13 20:44:14] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 18.0",
+    "[2026-06-13 20:44:16] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 18.0"
 ]
