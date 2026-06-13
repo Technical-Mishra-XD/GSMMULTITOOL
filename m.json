@@ -138,5 +138,6 @@
     "[2026-06-13 11:31:30] START XIAOMI FRP OPERATION: djradhey70@gmail.com | Credit: 30.0",
     "[2026-06-13 11:31:32] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: Object reference not set to an instance of an object.\r\n   at BismillahAdb.AdbSocket.Write(Byte[] data, Int32 size)\r\n   at BismillahAdb.AdbSocket.WriteString(String text)\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()",
     "[2026-06-13 11:31:52] XIAOMI FRP READ FAILED: djradhey70@gmail.com | Error: Read Error: unknown host service\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()",
-    "[2026-06-13 11:50:56] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 3.0"
+    "[2026-06-13 11:50:56] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 3.0",
+    "[2026-06-13 11:51:30] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 0.0\nFull Logs:\nOperation : Factory Reset & FRP\nDevice Serial : HK614L111228\nDevice Model : arctic_global\nConnecting to Authentication Server...\nServer Authentication: OK (Balance: 68)\nErasing FRP...\nFRP Format: OK\nErasing Userdata...\nDevice resetting - userdata already cleared\nRebooting device...\nReboot Command Sent: OK\n\u2705 Operation Successful! Time: 15s | Balance: 68\n"
 ]
