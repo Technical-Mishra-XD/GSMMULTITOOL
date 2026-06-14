@@ -293,5 +293,6 @@
     "[2026-06-14 09:02:04] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0",
     "[2026-06-14 09:02:11] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Device Not Detected",
     "[2026-06-14 09:02:45] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0",
-    "[2026-06-14 09:03:06] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 4.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: USS489MN9D6TGQGA\nModel: spinel_global\nMi Token: PVQECOAEQNzlkZGM1OTgzYWQxY2FmNgIcP5tSmqGBOD9VmTB8REND/KG4YLUivf5ivePYewMGc3BpbmVs\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 11s\n"
+    "[2026-06-14 09:03:06] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 4.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: USS489MN9D6TGQGA\nModel: spinel_global\nMi Token: PVQECOAEQNzlkZGM1OTgzYWQxY2FmNgIcP5tSmqGBOD9VmTB8REND/KG4YLUivf5ivePYewMGc3BpbmVs\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 11s\n",
+    "[2026-06-14 08:53:32] USER LOGIN: Shahid808 | Email: gsmmalik808@gmail.com | Total Credit: 0.0"
 ]
