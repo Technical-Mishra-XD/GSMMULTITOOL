@@ -340,5 +340,6 @@
     "[2026-06-14 12:25:38] XIAOMI FRP SUCCESS: gsmbabamahakal@gmail.com | Credit: 27.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: NRMFLVAQY9GUDYPZ\nModel: air_in_global\nMi Token: LVQECNQEQNjliNTc0MjU0MmRmNjU0YQIcFXCRpfDzTfGh1OsPaQsPqCyAYZ1+fFglcpPNowMDYWly\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 7s\n",
     "[2026-06-14 12:29:07] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 3.0",
     "[2026-06-14 12:29:30] XIAOMI FRP SUCCESS: arifmohdkhan53@gmail.com | Credit: 0.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 636b5290\nModel: flame_in_global\nMi Token: 4VQEBIwEQNDU0NTIzMjI3ZmNlODE2MgIIAAAES6hLHt0DBWZsYW1l\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 14s\n",
-    "[2026-06-14 12:56:35] USER LOGOUT: princeshad | Email: arifmohdkhan53@gmail.com | Credit: 0.0"
+    "[2026-06-14 12:56:35] USER LOGOUT: princeshad | Email: arifmohdkhan53@gmail.com | Credit: 0.0",
+    "[2026-06-14 12:56:42] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 0.0"
 ]
