@@ -366,5 +366,6 @@
     "[2026-06-14 17:24:14] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 0.0",
     "[2026-06-14 17:24:25] USER LOGOUT: mehata | Email: lhnmobile@gmail.com | Credit: 0.0",
     "[2026-06-14 17:24:33] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 3.0",
-    "[2026-06-14 17:24:40] START XIAOMI FRP OPERATION: lhnmobile@gmail.com | Credit: 3.0"
+    "[2026-06-14 17:24:40] START XIAOMI FRP OPERATION: lhnmobile@gmail.com | Credit: 3.0",
+    "[2026-06-14 17:25:03] XIAOMI FRP SUCCESS: lhnmobile@gmail.com | Credit: 0.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: Z5BYW4WOT4B6JVLB\nModel: lake_global\nMi Token: DVQECLgEQNTFlYjUyZGUwMDk3OTQzMgIUtZ3ZwepC6fA4H5wNTXjfKQRwYn4DBGxha2U=\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 17s\n"
 ]
