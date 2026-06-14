@@ -316,5 +316,6 @@
     "[2026-06-14 10:42:40] XIAOMI FRP SUCCESS: arifmohdkhan53@gmail.com | Credit: 6.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: fa15cd8\nModel: flame_in_global\nMi Token: 4VQEBIwEQMTRkYTliZjUzZTk4YjZkYwIIAAAESwUc1pwDBWZsYW1l\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 11s\n",
     "[2026-06-14 11:09:43] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 9.0",
     "[2026-06-14 11:09:54] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 9.0",
-    "[2026-06-14 11:10:01] XIAOMI FRP READ FAILED: gsmgopalnepal1@gmail.com | Error: Device Not Detected"
+    "[2026-06-14 11:10:01] XIAOMI FRP READ FAILED: gsmgopalnepal1@gmail.com | Error: Device Not Detected",
+    "[2026-06-14 11:11:16] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 9.0"
 ]
