@@ -312,5 +312,6 @@
     "[2026-06-14 10:33:48] USER LOGIN: djradhey | Email: djradhey70@gmail.com | Total Credit: 27.0",
     "[2026-06-14 10:34:02] USER LOGIN: djradhey | Email: djradhey70@gmail.com | Total Credit: 27.0",
     "[2026-06-14 10:52:48] USER LOGIN: clickmobizone2026 | Email: clickmobizone@gmail.com | Total Credit: 0.0",
-    "[2026-06-14 10:42:19] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 9.0"
+    "[2026-06-14 10:42:19] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 9.0",
+    "[2026-06-14 10:42:40] XIAOMI FRP SUCCESS: arifmohdkhan53@gmail.com | Credit: 6.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: fa15cd8\nModel: flame_in_global\nMi Token: 4VQEBIwEQMTRkYTliZjUzZTk4YjZkYwIIAAAESwUc1pwDBWZsYW1l\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 11s\n"
 ]
