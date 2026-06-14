@@ -302,5 +302,6 @@
     "[2026-06-14 09:45:30] XIAOMI FRP READ FAILED: gsmgopalnepal1@gmail.com | Error: Device Not Detected",
     "[2026-06-14 09:46:30] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 15.0",
     "[2026-06-14 09:46:49] XIAOMI FRP SUCCESS: gsmgopalnepal1@gmail.com | Credit: 12.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: ZPEAFM7HLB4THUBY\nModel: air_in_global\nMi Token: LVQECNQEQNTYwMjNhNzEwM2VjMTYwZQIcrKePIGnwNBeZcB1kfeEAGXexsfL4btgJDuLmyQMDYWly\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 10s\n",
-    "[2026-06-14 09:52:56] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 12.0"
+    "[2026-06-14 09:52:56] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 12.0",
+    "[2026-06-14 10:09:32] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 12.0"
 ]
