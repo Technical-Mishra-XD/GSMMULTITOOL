@@ -327,5 +327,6 @@
     "[2026-06-14 11:50:41] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 4.0",
     "[2026-06-14 11:50:48] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 4.0",
     "[2026-06-14 11:50:58] XIAOMI FRP CANCELLED: admin@gmail.com | Credit: 4.0",
-    "[2026-06-14 11:51:35] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 4.0"
+    "[2026-06-14 11:51:35] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 4.0",
+    "[2026-06-14 11:52:01] XIAOMI FRP SUCCESS: admin@gmail.com | Credit: 1.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 85dm5pg69pv4wgmr\nModel: unknown\nMi Token: DVQECLgEQNzM4M2FkN2EzMzk3NTBiMQIUnvneYw2jv+r3A8BO0ZUJJsXNF2gDBG1vb24=\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 20s\n"
 ]
