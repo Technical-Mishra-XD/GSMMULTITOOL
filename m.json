@@ -266,5 +266,6 @@
     "[2026-06-14 07:41:10] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0",
     "[2026-06-14 07:41:12] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Read Error: Object reference not set to an instance of an object.\r\n   at BismillahAdb.AdbSocket.Write(Byte[] data, Int32 size)\r\n   at BismillahAdb.AdbSocket.WriteString(String text)\r\n   at BismillahAdb.AdbSocket.SendCommand(String command)\r\n   at BismillahAdb.AdbClient.GetDevices()",
     "[2026-06-14 07:41:31] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0",
-    "[2026-06-14 07:42:41] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 7.0"
+    "[2026-06-14 07:42:41] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 7.0",
+    "[2026-06-14 07:42:45] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Device Not Detected"
 ]
