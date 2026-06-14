@@ -291,5 +291,6 @@
     "[2026-06-14 08:38:40] XIAOMI FRP CANCELLED: admin@gmail.com | Credit: 7.0",
     "[2026-06-14 09:01:56] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 7.0",
     "[2026-06-14 09:02:04] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0",
-    "[2026-06-14 09:02:11] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Device Not Detected"
+    "[2026-06-14 09:02:11] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Device Not Detected",
+    "[2026-06-14 09:02:45] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0"
 ]
