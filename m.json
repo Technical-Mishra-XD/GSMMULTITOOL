@@ -378,5 +378,6 @@
     "[2026-06-14 18:37:06] START XIAOMI FRP OPERATION: shrawan2073@gmail.com | Credit: 3.0",
     "[2026-06-14 18:37:37] XIAOMI FRP SUCCESS: shrawan2073@gmail.com | Credit: 0.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: VOOB5P4PAQKBQKEE\nModel: dew_global\nMi Token: DVQECLQEQMzAwMWU5NzEwN2VjNDI3OQIUnt51DhQJQAUzsbB4+nZwoxGtBsoDA2Rldw==\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 19s\n",
     "[2026-06-14 18:42:08] USER LOGOUT: shrawan | Email: shrawan2073@gmail.com | Credit: 0.0",
-    "[2026-06-14 20:08:05] USER LOGIN: gsmdc | Email: gsmdc700@gmail.com | Total Credit: 0.0"
+    "[2026-06-14 20:08:05] USER LOGIN: gsmdc | Email: gsmdc700@gmail.com | Total Credit: 0.0",
+    "[2026-06-14 20:24:54] USER LOGOUT: gsmdc | Email: gsmdc700@gmail.com | Credit: 0.0"
 ]
