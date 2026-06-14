@@ -321,5 +321,6 @@
     "[2026-06-14 11:11:21] XIAOMI FRP READ FAILED: gsmgopalnepal1@gmail.com | Error: Device Not Detected",
     "[2026-06-14 11:15:07] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 9.0",
     "[2026-06-14 11:15:28] XIAOMI FRP SUCCESS: gsmgopalnepal1@gmail.com | Credit: 6.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: ec282d9b7d73\nModel: fire_global\nMi Token: DVQECLgEQMDdlYzdmOGE1NjI4ZDEyOAIUdIj+9EPzq0rRLsZYJ0Nk0uwoLZsDBGZpcmU=\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 17s\n",
-    "[2026-06-14 11:30:44] USER LOGIN: clickmobizone2026 | Email: clickmobizone@gmail.com | Total Credit: 0.0"
+    "[2026-06-14 11:30:44] USER LOGIN: clickmobizone2026 | Email: clickmobizone@gmail.com | Total Credit: 0.0",
+    "[2026-06-14 11:20:26] START XIAOMI FRP OPERATION: djradhey70@gmail.com | Credit: 27.0"
 ]
