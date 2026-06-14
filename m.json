@@ -355,5 +355,6 @@
     "[2026-06-14 16:08:02] START XIAOMI FRP OPERATION: gsmbabamahakal@gmail.com | Credit: 27.0",
     "[2026-06-14 16:08:15] XIAOMI FRP SUCCESS: gsmbabamahakal@gmail.com | Credit: 24.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 5bb58c307e2d\nModel: veux_in_global\nMi Token: 0VQEBHgEQNTA1NjI2NGQ1YTBhNWY1NAIEW7WMMAMEdmV1eA==\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 7s\n",
     "[2026-06-14 16:36:56] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 6.0",
-    "[2026-06-14 16:37:26] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 6.0"
+    "[2026-06-14 16:37:26] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 6.0",
+    "[2026-06-14 16:37:53] XIAOMI FRP FAILED/AUTH_FAIL: gsmgopalnepal1@gmail.com | Credit: 6.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 80b9777d03b4\nModel: sky\nMi Token: 4VQEBIQEQMGEwNjI3OWIwNDI4ZjAxMQIIAAAES4C5d30DA3NreQ==\n\nGenerating blob key... OK\nError: Cannot connect to server\n"
 ]
