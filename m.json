@@ -259,5 +259,6 @@
     "[2026-06-14 07:22:29] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0",
     "[2026-06-14 07:22:40] XIAOMI FRP FAILED/AUTH_FAIL: admin@gmail.com | Credit: 7.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: USS489MN9D6TGQGA\nModel: spinel_global\nMi Token: PVQECOAEQNmMzYzAxYjQyZmE0OTYxYwIcP5tSmqGBOD9VmTB8REND/KG4YLUivf5ivePYewMGc3BpbmVs\n\nGenerating blob key... OK\nServer Error: No available server for service ID 2. All servers may be disabled, limit-reached, or busy. Please wait and try again.\n",
     "[2026-06-14 07:23:48] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0",
-    "[2026-06-14 07:24:01] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Read Error: [WinError 2] The system cannot find the file specified"
+    "[2026-06-14 07:24:01] XIAOMI FRP READ FAILED: admin@gmail.com | Error: Read Error: [WinError 2] The system cannot find the file specified",
+    "[2026-06-14 07:26:51] START XIAOMI FRP OPERATION: admin@gmail.com | Credit: 7.0"
 ]
