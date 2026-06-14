@@ -386,5 +386,6 @@
     "[2026-06-14 22:16:25] XIAOMI FRP FAILED/AUTH_FAIL: arifmohdkhan53@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: e89e411a\nModel: flame_in_global\nMi Token: 4VQEBIwEQNDJjZTZjMGI3NWI0NGVmOQIIAAAES0cJRyIDBWZsYW1l\n\nGenerating blob key... OK\nServer Error: All Server Un Available\n",
     "[2026-06-14 22:16:33] START XIAOMI FRP OPERATION: arifmohdkhan53@gmail.com | Credit: 3.0",
     "[2026-06-14 22:16:46] XIAOMI FRP FAILED/AUTH_FAIL: arifmohdkhan53@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: e89e411a\nModel: flame_in_global\nMi Token: 4VQEBIwEQNzQzY2QzNGQ0MTRlOWIxNwIIAAAES0cJRyIDBWZsYW1l\n\nGenerating blob key... OK\nServer Error: All Server Un Available\n",
-    "[2026-06-14 22:21:39] USER LOGOUT: princeshad | Email: arifmohdkhan53@gmail.com | Credit: 3.0"
+    "[2026-06-14 22:21:39] USER LOGOUT: princeshad | Email: arifmohdkhan53@gmail.com | Credit: 3.0",
+    "[2026-06-14 22:22:35] USER LOGIN: princeshad | Email: arifmohdkhan53@gmail.com | Total Credit: 3.0"
 ]
