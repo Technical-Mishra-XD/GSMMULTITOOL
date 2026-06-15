@@ -413,5 +413,6 @@
     "[2026-06-15 11:53:10] START XIAOMI FRP OPERATION: gsmfileshop@gmail.com | Credit: 21.0",
     "[2026-06-15 11:53:16] START XIAOMI FRP OPERATION: gsmfileshop@gmail.com | Credit: 21.0",
     "[2026-06-15 11:53:29] XIAOMI FRP SUCCESS: gsmfileshop@gmail.com | Credit: 18.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: aeffb2ac\nModel: breeze_in_global\nMi Token: 8VQEBJAEQNmE2NjI5MWYzMTdlYzg2ZAIIAAAES5H3zS8DBmJyZWV6ZQ==\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 9s\n",
-    "[2026-06-15 12:47:11] START XIAOMI FRP OPERATION: myamttool@gmail.com | Credit: 27.0"
+    "[2026-06-15 12:47:11] START XIAOMI FRP OPERATION: myamttool@gmail.com | Credit: 27.0",
+    "[2026-06-15 12:47:24] XIAOMI FRP SUCCESS: myamttool@gmail.com | Credit: 24.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 7ee2b90088d2\nModel: sky\nMi Token: 4VQEBIQEQNDU3MDM3N2E0YTM0MTkxNwIIAAAES37iuQADA3NreQ==\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 8s\n"
 ]
