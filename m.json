@@ -466,5 +466,6 @@
     "[2026-06-16 00:06:21] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 0.0",
     "[2026-06-16 00:06:41] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 0.0",
     "[2026-06-16 00:11:21] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 0.0",
-    "[2026-06-16 00:11:26] USER LOGOUT: admin | Email: admin@gmail.com | Credit: 0.0"
+    "[2026-06-16 00:11:26] USER LOGOUT: admin | Email: admin@gmail.com | Credit: 0.0",
+    "[2026-06-16 00:11:33] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 0.0"
 ]
