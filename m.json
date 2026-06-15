@@ -403,5 +403,6 @@
     "[2026-06-14 22:41:52] USER LOGIN: aman_guru | Email: myamttool@gmail.com | Total Credit: 30.0",
     "[2026-06-15 09:28:47] USER LOGIN: www | Email: gsmbabamahakal@gmail.com | Total Credit: 24.0",
     "[2026-06-15 09:49:56] USER LOGIN: aman_guru | Email: myamttool@gmail.com | Total Credit: 30.0",
-    "[2026-06-15 09:51:40] START XIAOMI FRP OPERATION: myamttool@gmail.com | Credit: 30.0"
+    "[2026-06-15 09:51:40] START XIAOMI FRP OPERATION: myamttool@gmail.com | Credit: 30.0",
+    "[2026-06-15 09:51:56] XIAOMI FRP SUCCESS: myamttool@gmail.com | Credit: 27.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 95IVSOSCRKE6BME6\nModel: tornado_in_global\nMi Token: TVQECOQEQMjQwMjkxYWI0MzNmZTFkYwIcTkIb9Rh5yKML/ghhnhYA2nFKjKHnK4H5HcSnlAMHdG9ybmFkbw==\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 11s\n"
 ]
