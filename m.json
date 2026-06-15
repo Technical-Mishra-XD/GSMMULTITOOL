@@ -427,5 +427,6 @@
     "[2026-06-15 13:12:07] XIAOMI FRP SUCCESS: djradhey70@gmail.com | Credit: 21.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: b548dea5\nModel: flame_in_global\nMi Token: 4VQEBIwEQN2YyNzczZmU3Y2Y1ZjM2MAIIAAAES539+ZMDBWZsYW1l\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 13s\n",
     "[2026-06-15 13:28:42] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 3.0",
     "[2026-06-15 13:31:45] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 6.0",
-    "[2026-06-15 13:31:49] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 6.0"
+    "[2026-06-15 13:31:49] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 6.0",
+    "[2026-06-15 13:32:14] XIAOMI FRP SUCCESS: gsmgopalnepal1@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: EQWOJROZONKZMJNB\nModel: air_in_global\nMi Token: LVQECNQEQN2MyNzM2MDc3ZWI3ODNkNgIc0TnQjlMDlN0t835FFDk1j2Af6h1Tib1YZjnSWwMDYWly\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 15s\n"
 ]
