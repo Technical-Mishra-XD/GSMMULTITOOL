@@ -501,5 +501,6 @@
     "[2026-06-16 12:07:24] USER LOGIN: GreatRM | Email: sahrambharosh720@gmail.com | Total Credit: 3.0",
     "[2026-06-16 12:07:51] START XIAOMI FRP OPERATION: sahrambharosh720@gmail.com | Credit: 3.0",
     "[2026-06-16 12:08:10] XIAOMI FRP SUCCESS: sahrambharosh720@gmail.com | Credit: 0.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 69d5bd10\nModel: flame_in_global\nMi Token: 4VQEBIwEQNzhmMWFkNWY2YWRlYTI0NQIIAAAESytVeqEDBWZsYW1l\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 6s\n",
-    "[2026-06-16 12:09:09] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 15.0"
+    "[2026-06-16 12:09:09] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 15.0",
+    "[2026-06-16 12:10:54] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 15.0"
 ]
