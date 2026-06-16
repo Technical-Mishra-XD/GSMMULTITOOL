@@ -481,5 +481,6 @@
     "[2026-06-16 10:59:40] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 0.0",
     "[2026-06-16 11:01:33] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 12.0",
     "[2026-06-16 11:01:51] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 12.0",
-    "[2026-06-16 11:02:05] XIAOMI FRP SUCCESS: abhiwad6@gmail.com | Credit: 9.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 9746a642\nModel: vayu_global\nMi Token: 0VQEBHgEQMGE0ZmI0OTE2ZTk3OTlhYQIER6QhngMEdmF5dQ==\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 6s\n"
+    "[2026-06-16 11:02:05] XIAOMI FRP SUCCESS: abhiwad6@gmail.com | Credit: 9.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 9746a642\nModel: vayu_global\nMi Token: 0VQEBHgEQMGE0ZmI0OTE2ZTk3OTlhYQIER6QhngMEdmF5dQ==\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 6s\n",
+    "[2026-06-16 11:11:06] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 9.0"
 ]
