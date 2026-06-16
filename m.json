@@ -504,5 +504,6 @@
     "[2026-06-16 12:09:09] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 15.0",
     "[2026-06-16 12:10:54] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 15.0",
     "[2026-06-16 12:11:06] XIAOMI FRP SUCCESS: abhiwad6@gmail.com | Credit: 12.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 6T69RCONFA9PIF5L\nModel: beryl_global\nMi Token: PVQECNwEQMjE5NTFhOWQwNTU5YmY1NwIcwi05+coW/gplebTlY/kPwJd2mFr0gcOBTD6dFwMFYmVyeWw=\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 6s\n",
-    "[2026-06-16 12:17:24] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 12.0"
+    "[2026-06-16 12:17:24] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 12.0",
+    "[2026-06-16 12:17:38] XIAOMI FRP SUCCESS: abhiwad6@gmail.com | Credit: 9.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: DUNF75J7FY8XWKT8\nModel: air_in_global\nMi Token: LVQECNQEQNzE4Yzk5MTIwNjkxMDI4MQIcO720ZdW8fYs3wVLjb+BJ9wDWg9f5Qww7T1PuZwMDYWly\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 9s\n"
 ]
