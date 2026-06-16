@@ -552,5 +552,6 @@
     "[2026-06-16 15:46:54] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 15.0",
     "[2026-06-16 15:47:42] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 15.0",
     "[2026-06-16 15:47:52] XIAOMI FRP FAILED/AUTH_FAIL: abhiwad6@gmail.com | Credit: 15.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: yppjam9h6daixglf\nModel: unknown\nMi Token: DVQECLgEQNzVlODY0NWU1ZWI4NGMyZAIU2A94T83KDiCGp0D9JY95DZcAvP8DBG1vb24=\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0\n",
-    "[2026-06-16 15:48:27] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 15.0"
+    "[2026-06-16 15:48:27] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 15.0",
+    "[2026-06-16 15:48:36] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 15.0"
 ]
