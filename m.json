@@ -525,5 +525,6 @@
     "[2026-06-16 14:19:16] XIAOMI FRP READ FAILED: gmt@admin.com | Error: Device Not Detected",
     "[2026-06-16 14:23:15] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 94.0",
     "[2026-06-16 14:24:12] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 94.0",
-    "[2026-06-16 14:24:28] XIAOMI FRP SUCCESS: gmt@admin.com | Credit: 91.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: DYFYCU5HKVUO49EU\nModel: beryl_in_global\nMi Token: PVQECNwEQNGYzM2RkOGE1YTIzOWJmZQIcdEeHiz6p6VQq23NW4regkqgAM+/rcBpWe8GjKQMFYmVyeWw=\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 10s\n"
+    "[2026-06-16 14:24:28] XIAOMI FRP SUCCESS: gmt@admin.com | Credit: 91.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: DYFYCU5HKVUO49EU\nModel: beryl_in_global\nMi Token: PVQECNwEQNGYzM2RkOGE1YTIzOWJmZQIcdEeHiz6p6VQq23NW4regkqgAM+/rcBpWe8GjKQMFYmVyeWw=\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 10s\n",
+    "[2026-06-16 14:23:18] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 3.0"
 ]
