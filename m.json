@@ -473,5 +473,6 @@
     "[2026-06-16 00:12:44] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 0.0",
     "[2026-06-16 00:16:31] USER LOGIN: admin | Email: admin@gmail.com | Total Credit: 0.0",
     "[2026-06-15 21:45:25] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 100.0",
-    "[2026-06-15 21:47:59] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 100.0"
+    "[2026-06-15 21:47:59] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 100.0",
+    "[2026-06-15 21:49:20] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 100.0"
 ]
