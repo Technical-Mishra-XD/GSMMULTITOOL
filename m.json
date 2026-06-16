@@ -542,5 +542,6 @@
     "[2026-06-16 15:01:34] XIAOMI FRP SUCCESS: myamttool@gmail.com | Credit: 0.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: LRJNFYAIBA7DFEKJ\nModel: air_in_global\nMi Token: LVQECNQEQNjFkOTBjNzcwMDY1ZjVmZAIcGKgxbYlSOgIwCwNiJf5XC1rd7gBmsURxYh6liAMDYWly\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 19s\n",
     "[2026-06-16 15:10:01] USER LOGOUT: aman_guru | Email: myamttool@gmail.com | Credit: 0.0",
     "[2026-06-16 15:10:07] USER LOGIN: aman_guru | Email: myamttool@gmail.com | Total Credit: 30.0",
-    "[2026-06-16 15:13:12] START XIAOMI FRP OPERATION: myamttool@gmail.com | Credit: 30.0"
+    "[2026-06-16 15:13:12] START XIAOMI FRP OPERATION: myamttool@gmail.com | Credit: 30.0",
+    "[2026-06-16 15:13:20] XIAOMI FRP FAILED/AUTH_FAIL: myamttool@gmail.com | Credit: 30.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 94e826b2\nModel: warm_in_global\nMi Token: 0VQEBHgEQMjJlZmE3MjQxYWE2MGEzNgIE0+gcxgMEd2FybQ==\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0\n"
 ]
