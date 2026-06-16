@@ -490,5 +490,6 @@
     "[2026-06-16 11:30:03] USER LOGIN: gsmabhi12 | Email: abhiwad6@gmail.com | Total Credit: 3.0",
     "[2026-06-16 11:30:17] START XIAOMI FRP OPERATION: abhiwad6@gmail.com | Credit: 3.0",
     "[2026-06-16 11:30:32] XIAOMI FRP SUCCESS: abhiwad6@gmail.com | Credit: 0.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 53060413\nModel: spes_global\nMi Token: 0VQEBHgEQNzIzZjQwZTMxMzc0MmRkNAIEuc35rwMEc3Blcw==\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 11s\n",
-    "[2026-06-16 11:19:49] USER LOGIN: aman_guru | Email: myamttool@gmail.com | Total Credit: 15.0"
+    "[2026-06-16 11:19:49] USER LOGIN: aman_guru | Email: myamttool@gmail.com | Total Credit: 15.0",
+    "[2026-06-16 11:20:03] START XIAOMI FRP OPERATION: myamttool@gmail.com | Credit: 15.0"
 ]
