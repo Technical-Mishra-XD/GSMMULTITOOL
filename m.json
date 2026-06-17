@@ -615,5 +615,6 @@
     "[2026-06-17 18:35:02] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 91.0",
     "[2026-06-17 18:35:10] XIAOMI FRP FAILED/AUTH_FAIL: gmt@admin.com | Credit: 91.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: HJ612L090098\nModel: arctic_global\nMi Token: 4VQEGIwEQMDBkZDE5OWExMDg1Y2MzZgIIAHUZSA410wkDBW1pc3Np\n\nGenerating blob key... OK\nServer Error: This service (ID: 2) is currently disabled.\n",
     "[2026-06-17 18:35:17] USER LOGOUT: GMT | Email: gmt@admin.com | Credit: 91.0",
-    "[2026-06-17 18:35:37] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 91.0"
+    "[2026-06-17 18:35:37] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 91.0",
+    "[2026-06-17 19:08:10] USER LOGIN: shrawan | Email: shrawan2073@gmail.com | Total Credit: 0.0"
 ]
