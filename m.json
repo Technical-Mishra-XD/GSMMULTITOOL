@@ -617,5 +617,6 @@
     "[2026-06-17 18:35:17] USER LOGOUT: GMT | Email: gmt@admin.com | Credit: 91.0",
     "[2026-06-17 18:35:37] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 91.0",
     "[2026-06-17 19:08:10] USER LOGIN: shrawan | Email: shrawan2073@gmail.com | Total Credit: 0.0",
-    "[2026-06-17 19:16:58] USER LOGIN: shrawan | Email: shrawan2073@gmail.com | Total Credit: 0.0"
+    "[2026-06-17 19:16:58] USER LOGIN: shrawan | Email: shrawan2073@gmail.com | Total Credit: 0.0",
+    "[2026-06-17 19:17:46] USER LOGOUT: shrawan | Email: shrawan2073@gmail.com | Credit: 0.0"
 ]
