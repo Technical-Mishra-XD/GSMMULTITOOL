@@ -621,5 +621,6 @@
     "[2026-06-17 19:17:46] USER LOGOUT: shrawan | Email: shrawan2073@gmail.com | Credit: 0.0",
     "[2026-06-17 19:17:53] USER LOGIN: shrawan | Email: shrawan2073@gmail.com | Total Credit: 3.0",
     "[2026-06-17 19:17:59] START XIAOMI FRP OPERATION: shrawan2073@gmail.com | Credit: 3.0",
-    "[2026-06-17 19:18:05] XIAOMI FRP FAILED/AUTH_FAIL: shrawan2073@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: tw4d4tz569mr8pbi\nModel: unknown\nMi Token: DVQECLgEQMzc1N2IwZWI0MGRkYzMxYQIUZrazGl+QfkY++zeMWaO7JStyKRADBG1vb24=\n\nGenerating blob key... OK\nServer Error: This service (ID: 2) is currently disabled.\n"
+    "[2026-06-17 19:18:05] XIAOMI FRP FAILED/AUTH_FAIL: shrawan2073@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: tw4d4tz569mr8pbi\nModel: unknown\nMi Token: DVQECLgEQMzc1N2IwZWI0MGRkYzMxYQIUZrazGl+QfkY++zeMWaO7JStyKRADBG1vb24=\n\nGenerating blob key... OK\nServer Error: This service (ID: 2) is currently disabled.\n",
+    "[2026-06-17 22:54:17] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 91.0"
 ]
