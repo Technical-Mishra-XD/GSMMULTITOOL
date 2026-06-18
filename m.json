@@ -626,5 +626,6 @@
     "[2026-06-18 06:16:50] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 91.0",
     "[2026-06-18 08:08:47] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 91.0",
     "[2026-06-18 08:10:10] START NOTHING NETWORK UNLOCK: gmt@admin.com | IMEI: 567898767898987 | Credit: 91.0",
-    "[2026-06-18 08:11:47] NOTHING UNLOCK SUCCESS: gmt@admin.com | Credit: 88.5\nLogs:\n\u25cf Device IMEI: 567898767898987\n\u25cf Waiting for fastboot mode...\n\u25cf Fastboot Read Done\n\u25cf Token Generated: Mj0hEC07ABIWWT4WXVFEQlFuW...\n\u25cf Submitting on Server...\n\u25cf Submit Done\n\u25cf Nothing Phone Network Unlock Submitted Successfully\n"
+    "[2026-06-18 08:11:47] NOTHING UNLOCK SUCCESS: gmt@admin.com | Credit: 88.5\nLogs:\n\u25cf Device IMEI: 567898767898987\n\u25cf Waiting for fastboot mode...\n\u25cf Fastboot Read Done\n\u25cf Token Generated: Mj0hEC07ABIWWT4WXVFEQlFuW...\n\u25cf Submitting on Server...\n\u25cf Submit Done\n\u25cf Nothing Phone Network Unlock Submitted Successfully\n",
+    "[2026-06-18 08:42:02] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 54.0"
 ]
