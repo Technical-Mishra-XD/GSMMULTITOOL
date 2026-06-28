@@ -648,5 +648,6 @@
     "[2026-06-28 10:25:08] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 100.0",
     "[2026-06-28 10:27:22] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 100.0",
     "[2026-06-28 10:27:55] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 100.0",
-    "[2026-06-28 10:28:14] XIAOMI FRP FAILED/AUTH_FAIL: gmt@admin.com | Credit: 100.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: LBCYV8N7NNJFYXNZ\nModel: lake_global\nAndroid Version: 14\nMIUI/HyperOS Version: V816.0.13.0.UGTMIXM\nRegion: US\nMi Token: [DVQECLgEQNmIzNjczZTM]\n\nGenerating blob key... OK\nNetwork Error: 'int' object has no attribute 'lower'\n"
+    "[2026-06-28 10:28:14] XIAOMI FRP FAILED/AUTH_FAIL: gmt@admin.com | Credit: 100.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: LBCYV8N7NNJFYXNZ\nModel: lake_global\nAndroid Version: 14\nMIUI/HyperOS Version: V816.0.13.0.UGTMIXM\nRegion: US\nMi Token: [DVQECLgEQNmIzNjczZTM]\n\nGenerating blob key... OK\nNetwork Error: 'int' object has no attribute 'lower'\n",
+    "[2026-06-28 10:28:43] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 100.0"
 ]
