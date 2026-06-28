@@ -670,5 +670,6 @@
     "[2026-06-28 14:15:52] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 100.0",
     "[2026-06-28 14:15:56] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 100.0",
     "[2026-06-28 14:17:33] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 100.0",
-    "[2026-06-28 14:18:08] XIAOMI FRP READ FAILED: gmt@admin.com | Error: Device Not Detected"
+    "[2026-06-28 14:18:08] XIAOMI FRP READ FAILED: gmt@admin.com | Error: Device Not Detected",
+    "[2026-06-28 14:19:19] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 100.0"
 ]
