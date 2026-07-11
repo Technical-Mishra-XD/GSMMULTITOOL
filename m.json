@@ -696,5 +696,6 @@
     "[2026-07-10 12:52:45] XIAOMI FRP SUCCESS: gmt@admin.com | Credit: 94.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: N7W4T8LJPVCYM7M7\nModel: tornado_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VPOINXM\nRegion: US\nMi Token: [TVQECOQEQNjk5NmE3YzI]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 7s\n",
     "[2026-07-11 11:52:04] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 94.0",
     "[2026-07-11 12:02:43] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 94.0",
-    "[2026-07-11 12:10:10] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 94.0"
+    "[2026-07-11 12:10:10] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 94.0",
+    "[2026-07-11 12:55:41] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 94.0"
 ]
