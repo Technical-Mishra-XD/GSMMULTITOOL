@@ -699,5 +699,6 @@
     "[2026-07-11 12:10:10] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 94.0",
     "[2026-07-11 12:55:41] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 94.0",
     "[2026-07-11 12:56:16] XIAOMI FRP SUCCESS: gmt@admin.com | Credit: 91.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: b1519c26\nModel: warm_in_global\nAndroid Version: 14\nMIUI/HyperOS Version: V816.0.10.0.UGVINXM\nRegion: US\nMi Token: [0VQEBHgEQMmI5NzM4ZmE]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 16s\n",
-    "[2026-07-11 13:03:35] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 91.0"
+    "[2026-07-11 13:03:35] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 91.0",
+    "[2026-07-11 13:03:44] XIAOMI FRP READ FAILED: gmt@admin.com | Error: Device Not Detected"
 ]
