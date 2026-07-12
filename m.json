@@ -8,5 +8,6 @@
     "[2026-07-12 19:21:15] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 85.0",
     "[2026-07-12 19:26:48] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 85.0",
     "[2026-07-12 19:28:50] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 85.0",
-    "[2026-07-12 19:29:38] USER LOGOUT: GMT | Email: gmt@admin.com | Credit: 85.0"
+    "[2026-07-12 19:29:38] USER LOGOUT: GMT | Email: gmt@admin.com | Credit: 85.0",
+    "[2026-07-12 19:29:44] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 85.0"
 ]
