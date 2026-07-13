@@ -67,5 +67,6 @@
     "[2026-07-13 12:46:16] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 50.5",
     "[2026-07-13 12:48:09] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 50.5",
     "[2026-07-13 12:48:24] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 50.5",
-    "[2026-07-13 12:48:41] XIAOMI FRP SUCCESS: gmt@admin.com | Credit: 47.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: Z5GMJZPRON9DZ5TC\nModel: beryl_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.211.0.VOQMIXM\nRegion: GB\nMi Token: [ PVQECNwEQNDQxMGM5OTgwNTRkNThlZ ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 16s\n"
+    "[2026-07-13 12:48:41] XIAOMI FRP SUCCESS: gmt@admin.com | Credit: 47.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: Z5GMJZPRON9DZ5TC\nModel: beryl_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.211.0.VOQMIXM\nRegion: GB\nMi Token: [ PVQECNwEQNDQxMGM5OTgwNTRkNThlZ ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n\u2705 done Success | 16s\n",
+    "[2026-07-13 12:49:09] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 47.5"
 ]
