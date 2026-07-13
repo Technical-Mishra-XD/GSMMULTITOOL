@@ -60,5 +60,5 @@
     "[2026-07-13 12:41:36] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 54.0",
     "[2026-07-13 12:41:51] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 50.5",
     "[2026-07-13 12:42:29] XIAOMI FRP FAILED/AUTH_FAIL: gmt@admin.com | Credit: 50.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: Z5GMJZPRON9DZ5TC\nModel: beryl_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.211.0.VOQMIXM\nRegion: GB\nMi Token: [ PVQECNwEQNTgyZWQxNjExYTBiNGYxN ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 3 | Your Balance: 0\n",
-    "[2026-07-13 12:42:35] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 50.5"
+    "[2026-07-13 12:42:37] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 50.5"
 ]
