@@ -23,5 +23,6 @@
     "[2026-07-13 09:13:11] NOTHING UNLOCK SUCCESS: gmt@admin.com | Credit: 80.0\nLogs:\n\u25cf Device IMEI: 111111111111111\n\u25cf Waiting for fastboot mode...\n\u25cf Fastboot Read Done\n\u25cf Token Generated: VU5MT0NLX2JkNmFlODIxMDQxM...\n\u25cf Submitting on Server...\n\u25cf Submit Done\n\u25cf Nothing Phone Network Unlock Submitted Successfully\n",
     "[2026-07-13 09:13:33] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 75.0",
     "[2026-07-13 09:14:33] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 75.0",
-    "[2026-07-13 09:22:00] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 75.0"
+    "[2026-07-13 09:22:00] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 75.0",
+    "[2026-07-13 09:23:10] USER LOGOUT: GMT | Email: gmt@admin.com | Credit: 75.0"
 ]
