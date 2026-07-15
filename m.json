@@ -119,5 +119,6 @@
     "[2026-07-14 22:07:31] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 34.0",
     "[2026-07-15 08:27:22] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 34.0",
     "[2026-07-15 11:30:23] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 34.0",
-    "[2026-07-15 11:32:06] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 34.0"
+    "[2026-07-15 11:32:06] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 34.0",
+    "[2026-07-15 11:32:11] XIAOMI FRP CANCELLED: gmt@admin.com | Credit: 34.0"
 ]
