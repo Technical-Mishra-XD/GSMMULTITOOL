@@ -132,5 +132,6 @@
     "[2026-07-16 21:42:14] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 31.0",
     "[2026-07-16 21:42:30] XIAOMI FRP SUCCESS: gmt@admin.com | Credit: 28.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 0bb7f5190316\nModel: sky\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.202.0.VMWINXM\nRegion: US\nMi Token: [ 4VQEBIQEQNWQ0NzFkMDEyNWQ4NWVkM ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.8\nElapsed Time : 15s\n",
     "[2026-07-16 21:44:43] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 28.0",
-    "[2026-07-16 21:44:51] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 28.0"
+    "[2026-07-16 21:44:51] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 28.0",
+    "[2026-07-16 21:44:57] XIAOMI FRP CANCELLED: gmt@admin.com | Credit: 28.0"
 ]
