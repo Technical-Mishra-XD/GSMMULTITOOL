@@ -162,3 +162,4 @@
 [2026-07-17 10:41:42] EMAIL: gmt@admin.com | PC: SERVICE-CARE-ONLINE | STATUS: I AGREE
 [2026-07-17 11:11:41] EMAIL: gmt@admin.com | PC: SERVICE-CARE-ONLINE | STATUS: I AGREE
 [2026-07-17 11:39:31] EMAIL: nicecommunication.biz@gmail.com | PC: NiceCommunicatinGsm | STATUS: I AGREE
+[2026-07-17 13:44:08] EMAIL: gsmdc700@gmail.com | PC: NEPALI-GURU | STATUS: I AGREE
