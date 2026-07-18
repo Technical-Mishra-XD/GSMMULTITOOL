@@ -164,3 +164,4 @@
 [2026-07-17 11:39:31] EMAIL: nicecommunication.biz@gmail.com | PC: NiceCommunicatinGsm | STATUS: I AGREE
 [2026-07-17 13:44:08] EMAIL: gsmdc700@gmail.com | PC: NEPALI-GURU | STATUS: I AGREE
 [2026-07-17 20:50:55] EMAIL: abhiwad6@gmail.com | PC: DELL | STATUS: I AGREE
+[2026-07-18 12:26:54] EMAIL: gmt@admin.com | PC: SERVICE-CARE-ONLINE | STATUS: I AGREE
