@@ -169,5 +169,6 @@
     "[2026-07-18 12:29:12] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 8.0",
     "[2026-07-18 12:29:42] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 8.0",
     "[2026-07-20 11:35:07] USER LOGIN: anoopgupta | Email: anoopg157@gmail.com | Total Credit: 0.0",
-    "[2026-07-20 11:36:46] USER LOGOUT: anoopgupta | Email: anoopg157@gmail.com | Credit: 0.0"
+    "[2026-07-20 11:36:46] USER LOGOUT: anoopgupta | Email: anoopg157@gmail.com | Credit: 0.0",
+    "[2026-07-20 11:36:56] USER LOGIN: anoopgupta | Email: anoopg157@gmail.com | Total Credit: 3.0"
 ]
