@@ -180,5 +180,6 @@
     "[2026-07-20 11:40:14] XIAOMI FRP FAILED/AUTH_FAIL: anoopg157@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 36c88ed6\nModel: fog_in_global\nAndroid Version: 13\nMIUI/HyperOS Version: V14.0.7.0.TGEINXM\nRegion: US\nMi Token: [ ,VQEBHQEQMGE0YmFhYWEzMTAxZTBjN ]\n\nGenerating blob key... OK\nError: Invalid server response format\n",
     "[2026-07-20 17:12:18] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 8.0",
     "[2026-07-20 17:13:23] USER LOGOUT: GMT | Email: gmt@admin.com | Credit: 8.0",
-    "[2026-07-20 17:13:30] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 8.0"
+    "[2026-07-20 17:13:30] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 8.0",
+    "[2026-07-21 08:24:24] USER LOGIN: GsmNaydu | Email: nayduirctc@gmail.com | Total Credit: 0.0"
 ]
