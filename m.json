@@ -187,5 +187,6 @@
     "[2026-07-21 21:02:49] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 8.0",
     "[2026-07-21 21:03:06] XIAOMI FRP FAILED/AUTH_FAIL: gmt@admin.com | Credit: 8.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: NJS4J7F6NRIB6X95\nModel: air_global\nAndroid Version: 14\nMIUI/HyperOS Version: V816.0.2.0.UGQMIXM\nRegion: US\nMi Token: [ LVQECNQEQMzI1MzBjNDUyZTRjN2U5Y ]\n\nGenerating blob key... OK\nCritical Error: ('Connection broken: IncompleteRead(848 bytes read, 1055 more expected)', IncompleteRead(848 bytes read, 1055 more expected))\n",
     "[2026-07-21 21:03:16] START XIAOMI FRP OPERATION: gmt@admin.com | Credit: 8.0",
-    "[2026-07-21 21:03:34] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 8.0"
+    "[2026-07-21 21:03:34] USER LOGIN: GMT | Email: gmt@admin.com | Total Credit: 8.0",
+    "[2026-07-22 19:39:36] USER LOGIN: GreatRM | Email: sahrambharosh720@gmail.com | Total Credit: 0.0"
 ]
