@@ -227,5 +227,6 @@
     "[2026-10-05 00:03:50] START XIAOMI FRP OPERATION: mifrp@gmail.com | Credit: 6.5",
     "[2026-10-05 00:03:54] USER LOGIN: mifrp | Email: mifrp@gmail.com | Total Credit: 6.5",
     "[2026-10-05 00:04:10] XIAOMI FRP SUCCESS: mifrp@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: a46e5a7b0223\nModel: sunstone_in_global\nAndroid Version: 14\nMIUI/HyperOS Version: OS2.0.6.0.UMQINXM\nRegion: IN\nMi Token: [ 4VQEBIgEQMGVmY2ViMzQyNTcyZTViN ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 18s\n",
-    "[2026-10-05 00:06:50] USER LOGIN: mifrp | Email: mifrp@gmail.com | Total Credit: 3.0"
+    "[2026-10-05 00:06:50] USER LOGIN: mifrp | Email: mifrp@gmail.com | Total Credit: 3.0",
+    "[2026-10-05 00:07:20] USER LOGOUT: mifrp | Email: mifrp@gmail.com | Credit: 3.0"
 ]
