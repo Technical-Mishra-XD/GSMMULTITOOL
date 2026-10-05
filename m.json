@@ -224,5 +224,6 @@
     "[2026-10-04 23:57:24] USER LOGIN: mifrp | Email: mifrp@gmail.com | Total Credit: 10.0",
     "[2026-10-04 23:57:41] XIAOMI FRP SUCCESS: mifrp@gmail.com | Credit: 6.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: r8aae6mjf68xnjqk\nModel: gold_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS3.0.4.0.VNQINXM\nRegion: IN\nMi Token: [ PVQECNgEQMzI0NThkYjExYzkzN2Y2M ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 18s\n",
     "[2026-10-04 23:58:41] XIAOMI FRP READ FAILED: mifrp@gmail.com | Error: Device Not Detected",
-    "[2026-10-05 00:03:50] START XIAOMI FRP OPERATION: mifrp@gmail.com | Credit: 6.5"
+    "[2026-10-05 00:03:50] START XIAOMI FRP OPERATION: mifrp@gmail.com | Credit: 6.5",
+    "[2026-10-05 00:03:54] USER LOGIN: mifrp | Email: mifrp@gmail.com | Total Credit: 6.5"
 ]
