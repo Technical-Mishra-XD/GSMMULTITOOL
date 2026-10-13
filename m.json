@@ -275,5 +275,6 @@
     "[2026-10-13 18:22:57] USER LOGIN: opppo | Email: opppo7848@gmail.com | Total Credit: 0.0",
     "[2026-10-13 18:23:32] USER LOGIN: opppo | Email: opppo7848@gmail.com | Total Credit: 0.0",
     "[2026-10-13 18:26:08] USER LOGOUT: opppo | Email: opppo7848@gmail.com | Credit: 0.0",
-    "[2026-10-13 18:26:21] USER LOGIN: opppo | Email: opppo7848@gmail.com | Total Credit: 10.0"
+    "[2026-10-13 18:26:21] USER LOGIN: opppo | Email: opppo7848@gmail.com | Total Credit: 10.0",
+    "[2026-10-13 18:27:43] USER LOGOUT: opppo | Email: opppo7848@gmail.com | Credit: 10.0"
 ]
