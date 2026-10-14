@@ -283,5 +283,6 @@
     "[2026-10-14 11:29:31] START XIAOMI FRP OPERATION: pcare2333@gmail.com | Credit: 10.0",
     "[2026-10-14 11:30:12] START XIAOMI FRP OPERATION: pcare2333@gmail.com | Credit: 10.0",
     "[2026-10-14 11:34:12] START XIAOMI FRP OPERATION: pcare2333@gmail.com | Credit: 10.0",
-    "[2026-10-14 11:34:18] USER LOGIN: phoncare | Email: pcare2333@gmail.com | Total Credit: 10.0"
+    "[2026-10-14 11:34:18] USER LOGIN: phoncare | Email: pcare2333@gmail.com | Total Credit: 10.0",
+    "[2026-10-14 11:34:27] XIAOMI FRP SUCCESS: pcare2333@gmail.com | Credit: 7.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: uocefan7d6rkculb\nModel: ruby_in_global\nAndroid Version: 14\nMIUI/HyperOS Version: OS2.0.15.0.UMOINXM\nRegion: IN\nMi Token: [ PVQECNgEQNTAxZGY3ODg0ZWYzYzFjM ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 10s\n"
 ]
