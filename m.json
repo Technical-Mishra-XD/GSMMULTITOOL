@@ -321,5 +321,6 @@
     "[2026-10-16 12:28:40] XIAOMI FRP FAILED/AUTH_FAIL: pcare2333@gmail.com | Credit: 4.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 459dzd8t9dfa6xby\nModel: moon_global\nAndroid Version: 14\nMIUI/HyperOS Version: V816.0.9.0.UNTMIXM\nRegion: US\nMi Token: [ DVQECLgEQNzliMzRkZjE2NTM1MjJlN ]\n\nGenerating blob key... OK\nServer Error: ALL SERVER UNAVAIBLE\n",
     "[2026-10-16 12:29:04] USER LOGIN: phoncare | Email: pcare2333@gmail.com | Total Credit: 4.0",
     "[2026-10-16 12:29:10] XIAOMI FRP FAILED/AUTH_FAIL: pcare2333@gmail.com | Credit: 4.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 459dzd8t9dfa6xby\nModel: moon_global\nAndroid Version: 14\nMIUI/HyperOS Version: V816.0.9.0.UNTMIXM\nRegion: US\nMi Token: [ DVQECLgEQNDdlZjAwNTQ0YzNlNmNlY ]\n\nGenerating blob key... OK\nServer Error: ALL SERVER UNAVAIBLE\n",
-    "[2026-10-16 12:36:52] USER LOGOUT: phoncare | Email: pcare2333@gmail.com | Credit: 4.0"
+    "[2026-10-16 12:36:52] USER LOGOUT: phoncare | Email: pcare2333@gmail.com | Credit: 4.0",
+    "[2026-10-16 12:37:01] USER LOGIN: phoncare | Email: pcare2333@gmail.com | Total Credit: 4.0"
 ]
