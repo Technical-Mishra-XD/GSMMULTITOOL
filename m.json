@@ -334,5 +334,6 @@
     "[2026-10-17 09:28:50] USER LOGOUT: None | Email: None | Credit: 0.0",
     "[2026-10-17 09:29:00] USER LOGIN: None | Email: None | Total Credit: 0.0",
     "[2026-10-17 09:29:18] USER LOGOUT: None | Email: None | Credit: 0.0",
-    "[2026-10-17 09:30:21] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 0.0"
+    "[2026-10-17 09:30:21] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 0.0",
+    "[2026-10-17 09:30:54] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999990.0"
 ]
