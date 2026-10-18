@@ -359,5 +359,6 @@
     "[2026-10-18 11:57:09] XIAOMI FRP READ FAILED: adminfrp@gmail.com | Error: Device Not Detected",
     "[2026-10-18 11:57:32] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 999983.0",
     "[2026-10-18 11:57:38] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999983.0",
-    "[2026-10-18 11:57:49] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 999979.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 6XVCRWCAEMUOVOAM\nModel: tornado_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.204.0.VPOINXM\nRegion: US\nMi Token: [ TVQECOQEQNjI5NmE0YjcyMTY2NzgzM ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 12s\n"
+    "[2026-10-18 11:57:49] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 999979.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 6XVCRWCAEMUOVOAM\nModel: tornado_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.204.0.VPOINXM\nRegion: US\nMi Token: [ TVQECOQEQNjI5NmE0YjcyMTY2NzgzM ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 12s\n",
+    "[2026-10-18 16:52:03] USER LOGIN: khumraj123 | Email: khumgotame@gmail.com | Total Credit: 10.0"
 ]
