@@ -446,5 +446,6 @@
     "[2026-10-19 11:07:19] XIAOMI FRP READ FAILED: lhnmobile@gmail.com | Error: Device Not Detected",
     "[2026-10-19 11:13:10] START XIAOMI FRP OPERATION: lhnmobile@gmail.com | Credit: 5.0",
     "[2026-10-19 11:14:35] START XIAOMI FRP OPERATION: lhnmobile@gmail.com | Credit: 5.0",
-    "[2026-10-19 11:14:40] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 5.0"
+    "[2026-10-19 11:14:40] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 5.0",
+    "[2026-10-19 11:14:49] XIAOMI FRP SUCCESS: lhnmobile@gmail.com | Credit: 4.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: C3612G030541\nModel: somalia_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.4.0.WBWINXM\nRegion: IN\nMi Token: [ 4VQEGIwEQNGE3NTc0ZjIxZjU1ZmZjM ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 9s\n"
 ]
