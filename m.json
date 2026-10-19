@@ -449,5 +449,6 @@
     "[2026-10-19 11:14:40] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 5.0",
     "[2026-10-19 11:14:49] XIAOMI FRP SUCCESS: lhnmobile@gmail.com | Credit: 4.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: C3612G030541\nModel: somalia_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.4.0.WBWINXM\nRegion: IN\nMi Token: [ 4VQEGIwEQNGE3NTc0ZjIxZjU1ZmZjM ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 9s\n",
     "[2026-10-19 11:52:52] USER LOGIN: khumraj123 | Email: khumgotame@gmail.com | Total Credit: 7.2",
-    "[2026-10-19 11:52:57] XIAOMI FRP READ FAILED: khumgotame@gmail.com | Error: Device Not Detected"
+    "[2026-10-19 11:52:57] XIAOMI FRP READ FAILED: khumgotame@gmail.com | Error: Device Not Detected",
+    "[2026-10-19 11:53:25] START XIAOMI FRP OPERATION: khumgotame@gmail.com | Credit: 7.2"
 ]
