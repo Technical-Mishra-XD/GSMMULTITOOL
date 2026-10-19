@@ -387,5 +387,6 @@
     "[2026-10-19 10:05:59] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 0.0",
     "[2026-10-19 10:06:22] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999972.0",
     "[2026-10-19 10:07:00] USER LOGOUT: mehata | Email: lhnmobile@gmail.com | Credit: 0.0",
-    "[2026-10-19 10:07:07] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 0.0"
+    "[2026-10-19 10:07:07] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 0.0",
+    "[2026-10-19 10:07:14] USER LOGOUT: mehata | Email: lhnmobile@gmail.com | Credit: 0.0"
 ]
