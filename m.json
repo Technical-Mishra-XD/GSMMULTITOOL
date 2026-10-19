@@ -459,5 +459,6 @@
     "[2026-10-19 12:03:14] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 999937.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: KJR469DMOVEIVKKN\nModel: beryl_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.205.0.VOQINXM\nRegion: US\nMi Token: [ PVQECNwEQMTQwMmUzOWMzOTU0ZjU3N ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 16s\n",
     "[2026-10-19 12:28:42] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999937.0",
     "[2026-10-19 12:28:48] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 999937.0",
-    "[2026-10-19 12:28:54] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999937.0"
+    "[2026-10-19 12:28:54] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999937.0",
+    "[2026-10-19 12:29:12] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 999933.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: ZHI7CA79IFRO9HE6\nModel: beryl_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.302.0.WOQMIXM\nRegion: GB\nMi Token: [ PVQECNwEQMWZhNTRmYjMzNWViNzg0Y ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 20s\n"
 ]
