@@ -487,5 +487,6 @@
     "[2026-10-22 10:19:14] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 3.0",
     "[2026-10-22 10:19:21] XIAOMI FRP FAILED/AUTH_FAIL: lhnmobile@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 14c45a84\nModel: flame_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VGUINXM\nRegion: NP\nMi Token: [ 4VQEBIwEQNTg0NGYxMmM1YzQzNmM0M ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0.5\n",
     "[2026-10-22 10:20:22] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 3.0",
-    "[2026-10-22 10:20:27] START XIAOMI FRP OPERATION: lhnmobile@gmail.com | Credit: 3.0"
+    "[2026-10-22 10:20:27] START XIAOMI FRP OPERATION: lhnmobile@gmail.com | Credit: 3.0",
+    "[2026-10-22 10:20:33] XIAOMI FRP FAILED/AUTH_FAIL: lhnmobile@gmail.com | Credit: 3.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 14c45a84\nModel: flame_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VGUINXM\nRegion: NP\nMi Token: [ 4VQEBIwEQMzU4YTEwNDgxY2I1OTQwY ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0.5\n"
 ]
