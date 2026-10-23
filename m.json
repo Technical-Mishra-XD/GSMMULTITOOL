@@ -498,5 +498,5 @@
     "[2026-10-22 15:36:29] USER LOGIN: phoncare | Email: pcare2333@gmail.com | Total Credit: 4.0",
     "[2026-10-22 15:36:37] XIAOMI FRP SUCCESS: pcare2333@gmail.com | Credit: 1.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: a9897675\nModel: warm_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VGVINXM\nRegion: US\nMi Token: [ 0VQEBHgEQMzVlNjAyMDY3MDJjNTRjN ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 10s\n",
     "[2026-10-23 11:00:37] USER LOGIN: khumraj123 | Email: khumgotame@gmail.com | Total Credit: 4.4",
-    "[2026-10-23 11:06:08] START XIAOMI FRP OPERATION: khumgotame@gmail.com | Credit: 4.4"
+    "[2026-10-23 11:06:10] XIAOMI FRP READ FAILED: khumgotame@gmail.com | Error: Device Not Detected"
 ]
