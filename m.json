@@ -517,5 +517,6 @@
     "[2026-10-23 14:14:41] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999923.0",
     "[2026-10-23 14:14:54] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 999919.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 1955efdb\nModel: flame_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VGUINXM\nRegion: US\nMi Token: [ 4VQEBIwEQNWMyNDVmN2YwMmM5NzU4N ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 14s\n",
     "[2026-10-23 15:49:27] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999919.5",
-    "[2026-10-23 15:49:31] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 999919.5"
+    "[2026-10-23 15:49:31] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 999919.5",
+    "[2026-10-23 15:49:36] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 999919.5"
 ]
