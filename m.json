@@ -538,5 +538,6 @@
     "[2026-10-25 12:28:09] START XIAOMI FRP OPERATION: mifrptool@gmail.com | Credit: 3.5",
     "[2026-10-25 12:28:16] XIAOMI FRP FAILED/AUTH_FAIL: mifrptool@gmail.com | Credit: 3.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: b57ffd15\nModel: garnet_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.301.0.WNRINXM\nRegion: IN\nMi Token: [ 8VQEBJAEQMGJkNmZjZWMzZGFjOWIzM ]\n\nGenerating blob key... OK\nServer Error: ALL SERVER UNAVAIBLE\n",
     "[2026-10-25 12:28:46] XIAOMI FRP FAILED/AUTH_FAIL: mifrptool@gmail.com | Credit: 3.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: b57ffd15\nModel: garnet_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.301.0.WNRINXM\nRegion: IN\nMi Token: [ 8VQEBJAEQMjJkN2I1ZjAwMjhmMTk0N ]\n\nGenerating blob key... OK\nServer Error: ALL SERVER UNAVAIBLE\n",
-    "[2026-10-25 12:29:35] START XIAOMI FRP OPERATION: mifrptool@gmail.com | Credit: 3.5"
+    "[2026-10-25 12:29:35] START XIAOMI FRP OPERATION: mifrptool@gmail.com | Credit: 3.5",
+    "[2026-10-25 12:29:39] USER LOGIN: frp | Email: mifrptool@gmail.com | Total Credit: 3.5"
 ]
