@@ -529,5 +529,6 @@
     "[2026-10-25 09:06:29] XIAOMI FRP CANCELLED: milan14m72p@gmail.com | Credit: 9.8",
     "[2026-10-25 09:06:48] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 9.8",
     "[2026-10-25 09:06:54] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 9.8",
-    "[2026-10-25 09:07:02] XIAOMI FRP SUCCESS: milan14m72p@gmail.com | Credit: 6.6000000000000005\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 2b898d03\nModel: sweet_global\nAndroid Version: 13\nMIUI/HyperOS Version: V14.0.8.0.TKFMIXM\nRegion: IN\nMi Token: [ 0VQEBHwEQM2Q1OTJkODA3YTg2MTAwN ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 10s\n"
+    "[2026-10-25 09:07:02] XIAOMI FRP SUCCESS: milan14m72p@gmail.com | Credit: 6.6000000000000005\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 2b898d03\nModel: sweet_global\nAndroid Version: 13\nMIUI/HyperOS Version: V14.0.8.0.TKFMIXM\nRegion: IN\nMi Token: [ 0VQEBHwEQM2Q1OTJkODA3YTg2MTAwN ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 10s\n",
+    "[2026-10-25 12:20:18] USER LOGIN: frp | Email: mifrptool@gmail.com | Total Credit: 7.0"
 ]
