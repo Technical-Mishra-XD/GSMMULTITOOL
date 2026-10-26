@@ -568,5 +568,6 @@
     "[2026-10-26 18:10:56] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 6.6000000000000005",
     "[2026-10-26 18:11:40] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 6.6000000000000005",
     "[2026-10-26 18:11:43] START XIAOMI FRP OPERATION: milan14m72p@gmail.com | Credit: 6.6000000000000005",
-    "[2026-10-26 18:11:50] XIAOMI FRP FAILED/AUTH_FAIL: milan14m72p@gmail.com | Credit: 6.6000000000000005\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 5t9torfm9pdifa65\nModel: unknown\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VNTMIXM\nRegion: US\nMi Token: [ DVQECLgEQNDA5N2JjZTE3NWMyMmI1N ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0.5\n"
+    "[2026-10-26 18:11:50] XIAOMI FRP FAILED/AUTH_FAIL: milan14m72p@gmail.com | Credit: 6.6000000000000005\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 5t9torfm9pdifa65\nModel: unknown\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VNTMIXM\nRegion: US\nMi Token: [ DVQECLgEQNDA5N2JjZTE3NWMyMmI1N ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0.5\n",
+    "[2026-10-26 18:13:08] START XIAOMI FRP OPERATION: milan14m72p@gmail.com | Credit: 6.6000000000000005"
 ]
