@@ -574,5 +574,6 @@
     "[2026-10-26 18:17:37] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 6.6000000000000005",
     "[2026-10-26 18:17:46] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 6.6000000000000005",
     "[2026-10-26 18:18:00] XIAOMI FRP FAILED/AUTH_FAIL: milan14m72p@gmail.com | Credit: 6.6000000000000005\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 5t9torfm9pdifa65\nModel: unknown\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VNTMIXM\nRegion: US\nMi Token: [ DVQECLgEQMWY2ZjUzODMzYWZmZGZjZ ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0.5\n",
-    "[2026-10-26 18:20:04] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 6.6000000000000005"
+    "[2026-10-26 18:20:04] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 6.6000000000000005",
+    "[2026-10-26 18:20:26] XIAOMI FRP SUCCESS: milan14m72p@gmail.com | Credit: 3.4000000000000004\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 5t9torfm9pdifa65\nModel: unknown\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VNTMIXM\nRegion: US\nMi Token: [ DVQECLgEQMTA2NWJiYmYxY2NkNzBiZ ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 23s\n"
 ]
