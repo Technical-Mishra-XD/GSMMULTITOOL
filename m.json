@@ -560,5 +560,6 @@
     "[2026-10-26 12:31:10] START XIAOMI FRP OPERATION: khumgotame@gmail.com | Credit: 4.4",
     "[2026-10-26 12:32:06] START XIAOMI FRP OPERATION: khumgotame@gmail.com | Credit: 4.4",
     "[2026-10-26 12:32:11] USER LOGIN: khumraj123 | Email: khumgotame@gmail.com | Total Credit: 4.4",
-    "[2026-10-26 12:32:34] START XIAOMI FRP OPERATION: khumgotame@gmail.com | Credit: 4.4"
+    "[2026-10-26 12:32:34] START XIAOMI FRP OPERATION: khumgotame@gmail.com | Credit: 4.4",
+    "[2026-10-26 12:32:39] XIAOMI FRP FAILED/AUTH_FAIL: khumgotame@gmail.com | Credit: 4.4\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: BENBVOZ9HAGUUKIF\nModel: dew_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.307.0.WBNMIXM\nRegion: US\nMi Token: [ DVQECLQEQN2RlYWY1ODU2YWY4M2JjO ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0.5\n"
 ]
