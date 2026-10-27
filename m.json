@@ -592,5 +592,6 @@
     "[2026-10-27 17:52:58] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 44.5",
     "[2026-10-27 17:53:02] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 44.5",
     "[2026-10-27 17:53:22] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 44.5",
-    "[2026-10-27 17:53:28] XIAOMI FRP FAILED/AUTH_FAIL: adminfrp@gmail.com | Credit: 44.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 95JVHY7D95QGTWZH\nModel: beryl_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.207.0.VOQINXM\nRegion: US\nMi Token: [ PVQECNwEQNGE3OWNjNzI3YTdmNzA1M ]\n\nGenerating blob key... OK\nServer Error: THIS TYPE OF DEVICES COULDN'T BE UNLOCKED\n"
+    "[2026-10-27 17:53:28] XIAOMI FRP FAILED/AUTH_FAIL: adminfrp@gmail.com | Credit: 44.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 95JVHY7D95QGTWZH\nModel: beryl_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.207.0.VOQINXM\nRegion: US\nMi Token: [ PVQECNwEQNGE3OWNjNzI3YTdmNzA1M ]\n\nGenerating blob key... OK\nServer Error: THIS TYPE OF DEVICES COULDN'T BE UNLOCKED\n",
+    "[2026-10-27 17:54:16] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 44.5"
 ]
