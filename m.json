@@ -601,5 +601,6 @@
     "[2026-10-29 15:49:50] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 44.5",
     "[2026-10-29 15:51:39] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 44.5",
     "[2026-10-29 15:51:47] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 44.5",
-    "[2026-10-29 15:51:55] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 41.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 5DPZFM7PMRYPEUTK\nModel: air_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.208.0.VGQINXM\nRegion: IN\nMi Token: [ LVQECNQEQMTBjNGYyMTU3YWY1NDUwO ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 9s\n"
+    "[2026-10-29 15:51:55] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 41.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 5DPZFM7PMRYPEUTK\nModel: air_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.208.0.VGQINXM\nRegion: IN\nMi Token: [ LVQECNQEQMTBjNGYyMTU3YWY1NDUwO ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 9s\n",
+    "[2026-10-29 15:52:16] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 41.5"
 ]
