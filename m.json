@@ -645,5 +645,6 @@
     "[2026-10-31 11:04:59] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 32.5",
     "[2026-10-31 13:06:50] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 30.5",
     "[2026-10-31 13:07:03] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 30.5",
-    "[2026-10-31 13:07:09] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 30.5"
+    "[2026-10-31 13:07:09] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 30.5",
+    "[2026-10-31 13:07:17] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 27.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 33754cc85f3f\nModel: sky\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.203.0.VMWINXM\nRegion: US\nMi Token: [ 4VQEBIQEQMDRkM2MwMDc0NDMwOGI4Z ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 11s\n"
 ]
