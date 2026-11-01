@@ -665,5 +665,6 @@
     "[2026-11-01 15:18:07] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 18.5",
     "[2026-11-01 15:19:21] XIAOMI FRP READ FAILED: adminfrp@gmail.com | Error: Device Not Detected",
     "[2026-11-01 15:24:50] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 18.5",
-    "[2026-11-01 15:25:26] XIAOMI FRP READ FAILED: adminfrp@gmail.com | Error: Device Not Detected"
+    "[2026-11-01 15:25:26] XIAOMI FRP READ FAILED: adminfrp@gmail.com | Error: Device Not Detected",
+    "[2026-11-01 15:44:50] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 18.5"
 ]
