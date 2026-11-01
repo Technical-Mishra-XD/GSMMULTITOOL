@@ -668,5 +668,6 @@
     "[2026-11-01 15:25:26] XIAOMI FRP READ FAILED: adminfrp@gmail.com | Error: Device Not Detected",
     "[2026-11-01 15:44:50] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 18.5",
     "[2026-11-01 15:44:59] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 18.5",
-    "[2026-11-01 15:45:08] XIAOMI FRP FAILED/AUTH_FAIL: adminfrp@gmail.com | Credit: 18.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 8aaa310e\nModel: flame_in_global\nAndroid Version: 14\nMIUI/HyperOS Version: V816.0.9.0.UGUINXM\nRegion: US\nMi Token: [ 4VQEBIwEQNDFmZWUzMGE2YzBmM2RkM ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0.5\n"
+    "[2026-11-01 15:45:08] XIAOMI FRP FAILED/AUTH_FAIL: adminfrp@gmail.com | Credit: 18.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 8aaa310e\nModel: flame_in_global\nAndroid Version: 14\nMIUI/HyperOS Version: V816.0.9.0.UGUINXM\nRegion: US\nMi Token: [ 4VQEBIwEQNDFmZWUzMGE2YzBmM2RkM ]\n\nGenerating blob key... OK\nServer Error: Insufficient credits. Required: 1 | Your Balance: 0.5\n",
+    "[2026-11-01 15:46:07] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 18.5"
 ]
