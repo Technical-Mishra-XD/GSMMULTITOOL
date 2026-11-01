@@ -687,5 +687,6 @@
     "[2026-11-01 16:35:11] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 6.5",
     "[2026-11-01 16:35:20] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 6.5",
     "[2026-11-01 16:35:24] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 6.5",
-    "[2026-11-01 16:35:32] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 3.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 8f240d03\nModel: flame_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.302.0.WGUINXM\nRegion: US\nMi Token: [ 4VQEBIwEQNzk4MzNkY2EwZTBmZDcyZ ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 9s\n"
+    "[2026-11-01 16:35:32] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 3.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 8f240d03\nModel: flame_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.302.0.WGUINXM\nRegion: US\nMi Token: [ 4VQEBIwEQNzk4MzNkY2EwZTBmZDcyZ ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 9s\n",
+    "[2026-11-01 17:50:56] USER LOGIN: None | Email: None | Total Credit: 0"
 ]
