@@ -351,3 +351,4 @@
 [2026-11-01 20:03:48] EMAIL: lhnmobile@gmail.com | PC: DESKTOP-P2UCPU4 | STATUS: I AGREE
 [2026-11-01 20:03:55] EMAIL: lhnmobile@gmail.com | PC: DESKTOP-P2UCPU4 | STATUS: I AGREE
 [2026-11-01 20:04:06] EMAIL: lhnmobile@gmail.com | PC: DESKTOP-P2UCPU4 | STATUS: I AGREE
+[2026-11-02 10:45:02] EMAIL: prajwalrajbhandari15@gmail.com | PC: aSUS | STATUS: I AGREE
