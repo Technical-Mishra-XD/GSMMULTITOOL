@@ -708,5 +708,6 @@
     "[2026-11-02 12:52:08] START XIAOMI FRP OPERATION: milan14m72p@gmail.com | Credit: 13.4",
     "[2026-11-02 12:52:13] USER LOGIN: gsmmilan51 | Email: milan14m72p@gmail.com | Total Credit: 13.4",
     "[2026-11-02 12:52:28] XIAOMI FRP SUCCESS: milan14m72p@gmail.com | Credit: 10.4\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 715b9e80\nModel: tapas_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.209.0.VMTMIXM\nRegion: US\nMi Token: [ 0VQEBHwEQNzA1MGUzZmYxY2MwZjRkZ ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 16s\n",
-    "[2026-11-02 14:29:24] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 3.5"
+    "[2026-11-02 14:29:24] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 3.5",
+    "[2026-11-02 14:30:21] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 3.5"
 ]
