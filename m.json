@@ -731,5 +731,6 @@
     "[2026-11-02 15:55:40] XIAOMI FRP FAILED/AUTH_FAIL: gsmgopalnepal1@gmail.com | Credit: 10.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 8hqckbvceixw6prg\nModel: XIAOMI\nAndroid Version: \nMIUI/HyperOS Version: \nRegion: \nMi Token: [ ]\n\nGenerating blob key... OK\nServer Error: TOKEN NOT FOUND IN CONFIGBLOB\n",
     "[2026-11-02 15:56:24] XIAOMI FRP FAILED/AUTH_FAIL: gsmgopalnepal1@gmail.com | Credit: 10.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 8hqckbvceixw6prg\nModel: XIAOMI\nAndroid Version: \nMIUI/HyperOS Version: \nRegion: \nMi Token: [ ]\n\nGenerating blob key... OK\nServer Error: TOKEN NOT FOUND IN CONFIGBLOB\n",
     "[2026-11-02 16:00:54] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 10.0",
-    "[2026-11-02 16:01:10] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 10.0"
+    "[2026-11-02 16:01:10] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 10.0",
+    "[2026-11-02 16:01:16] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 10.0"
 ]
