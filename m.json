@@ -723,5 +723,6 @@
     "[2026-11-02 14:39:53] START XIAOMI FRP OPERATION: bot404found@gmail.com | Credit: 10.0",
     "[2026-11-02 14:40:48] START XIAOMI FRP OPERATION: bot404found@gmail.com | Credit: 10.0",
     "[2026-11-02 14:41:11] START XIAOMI FRP OPERATION: bot404found@gmail.com | Credit: 10.0",
-    "[2026-11-02 14:41:19] USER LOGIN: pupa1500 | Email: bot404found@gmail.com | Total Credit: 10.0"
+    "[2026-11-02 14:41:19] USER LOGIN: pupa1500 | Email: bot404found@gmail.com | Total Credit: 10.0",
+    "[2026-11-02 14:41:26] XIAOMI FRP SUCCESS: bot404found@gmail.com | Credit: 7.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 4pl7iro7nfrwjjba\nModel: tanzanite_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.5.0.WOGMIXM\nRegion: US\nMi Token: [ TVQECOwEQMTM0YmZjYzc1ZWEzZWQ1Y ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 10s\n"
 ]
