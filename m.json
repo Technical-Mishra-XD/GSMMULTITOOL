@@ -798,5 +798,6 @@
     "[2026-11-05 15:27:28] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 18.5",
     "[2026-11-05 05:00:44] USER LOGIN: mehata | Email: lhnmobile@gmail.com | Total Credit: 2.0",
     "[2026-11-05 05:00:52] XIAOMI FRP FAILED/AUTH_FAIL: lhnmobile@gmail.com | Credit: 2.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 944d3a4825a2\nModel: sky_in_global\nAndroid Version: 13\nMIUI/HyperOS Version: V14.0.7.0.TMWINXM\nRegion: CN\nMi Token: [ 4VQEBIQEQN2M4Y2RjZmEzNmFiZjVhZ ]\n\nGenerating blob key... OK\nServer Error: Service disabled: FRP (ID: 2). Enable it in Admin \u2192 Server status / Products.\n",
-    "[2026-11-05 22:40:09] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 18.5"
+    "[2026-11-05 22:40:09] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 18.5",
+    "[2026-11-05 22:40:16] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 18.5"
 ]
