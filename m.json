@@ -780,5 +780,6 @@
     "[2026-11-04 17:29:37] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 7.0",
     "[2026-11-04 17:29:44] XIAOMI FRP FAILED/AUTH_FAIL: gsmgopalnepal1@gmail.com | Credit: 7.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: HJ613L067543\nModel: arctic_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.13.0.WBVMIXM\nRegion: CN\nMi Token: [ 4VQEGIwEQMGEyZTgyNDgzYTk1N2MzZ ]\n\nGenerating blob key... OK\nServer Error: Service disabled: FRP (ID: 2). Enable it in Admin \u2192 Server status / Products.\n",
     "[2026-11-04 17:30:16] START XIAOMI FRP OPERATION: gsmgopalnepal1@gmail.com | Credit: 7.0",
-    "[2026-11-04 17:30:42] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 7.0"
+    "[2026-11-04 17:30:42] USER LOGIN: gsmgopalnepal | Email: gsmgopalnepal1@gmail.com | Total Credit: 7.0",
+    "[2026-11-05 12:48:17] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 24.5"
 ]
