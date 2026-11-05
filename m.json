@@ -789,5 +789,6 @@
     "[2026-11-05 12:49:41] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 24.5",
     "[2026-11-05 12:49:52] XIAOMI FRP SUCCESS: adminfrp@gmail.com | Credit: 21.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: KVYDLRIZJBTCNVPV\nModel: klee_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.3.0.WPJINXM\nRegion: US\nMi Token: [ PVQECNgEQNGE0NzNhNjQxMGUwNzY3Z ]\n\nGenerating blob key... OK\nConnecting to Authentication Server... OK\nUser credits deducted... OK\nErasing FRP... OK\nErasing userdata... OK\nRebooting device... OK\n\n----------------------------------------------------\nGSM Multi Tool v1.9\nElapsed Time : 13s\n",
     "[2026-11-05 12:51:31] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 21.5",
-    "[2026-11-05 12:52:41] XIAOMI FRP READ FAILED: adminfrp@gmail.com | Error: Device Not Detected"
+    "[2026-11-05 12:52:41] XIAOMI FRP READ FAILED: adminfrp@gmail.com | Error: Device Not Detected",
+    "[2026-11-05 12:53:58] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 21.5"
 ]
