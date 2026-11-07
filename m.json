@@ -809,5 +809,6 @@
     "[2026-11-05 22:42:23] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 12.5",
     "[2026-11-06 17:09:29] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 12.5",
     "[2026-11-06 17:09:41] START XIAOMI FRP OPERATION: adminfrp@gmail.com | Credit: 12.5",
-    "[2026-11-06 17:09:49] XIAOMI FRP FAILED/AUTH_FAIL: adminfrp@gmail.com | Credit: 12.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: S4LZLZGU4PFA5DZH\nModel: gale_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.206.0.VGPINXM\nRegion: US\nMi Token: [ DVQECLgEQNDgxMDk4NTc0NTg0ZTAxM ]\n\nGenerating blob key... OK\nServer Error: Service disabled: FRP (ID: 2). Enable it in Admin \u2192 Server status / Products.\n"
+    "[2026-11-06 17:09:49] XIAOMI FRP FAILED/AUTH_FAIL: adminfrp@gmail.com | Credit: 12.5\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: S4LZLZGU4PFA5DZH\nModel: gale_in_global\nAndroid Version: 15\nMIUI/HyperOS Version: OS2.0.206.0.VGPINXM\nRegion: US\nMi Token: [ DVQECLgEQNDgxMDk4NTc0NTg0ZTAxM ]\n\nGenerating blob key... OK\nServer Error: Service disabled: FRP (ID: 2). Enable it in Admin \u2192 Server status / Products.\n",
+    "[2026-11-07 19:51:06] USER LOGIN: admin123 | Email: adminfrp@gmail.com | Total Credit: 12.5"
 ]
