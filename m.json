@@ -874,5 +874,6 @@
     "[2026-11-16 23:37:27] XIAOMI FRP FAILED/AUTH_FAIL: imrangk800@gmail.com | Credit: 37.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 15ccd2b8\nModel: kunzite_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.304.0.WPQINXM\nRegion: IN\nMi Token: [ 8VQEBJQEQMzc5ZWZmZWE2YWM5MmU3N ]\n\nGenerating blob key... OK\nServer Error: Endpoint disabled\n",
     "[2026-11-16 23:37:45] START XIAOMI FRP OPERATION: imrangk800@gmail.com | Credit: 37.0",
     "[2026-11-16 23:37:50] XIAOMI FRP FAILED/AUTH_FAIL: imrangk800@gmail.com | Credit: 37.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 15ccd2b8\nModel: kunzite_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.304.0.WPQINXM\nRegion: IN\nMi Token: [ 8VQEBJQEQNjlhMjkwMGQ2ODBiNjkzY ]\n\nGenerating blob key... OK\nServer Error: Endpoint disabled\n",
-    "[2026-11-16 23:38:15] START XIAOMI FRP OPERATION: imrangk800@gmail.com | Credit: 37.0"
+    "[2026-11-16 23:38:15] START XIAOMI FRP OPERATION: imrangk800@gmail.com | Credit: 37.0",
+    "[2026-11-16 23:38:19] XIAOMI FRP FAILED/AUTH_FAIL: imrangk800@gmail.com | Credit: 37.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 15ccd2b8\nModel: kunzite_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.304.0.WPQINXM\nRegion: IN\nMi Token: [ 8VQEBJQEQMWI4MDM3YjQyNGVhNzE5M ]\n\nGenerating blob key... OK\nServer Error: Endpoint disabled\n"
 ]
