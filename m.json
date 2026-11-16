@@ -881,5 +881,6 @@
     "[2026-11-16 23:39:00] USER LOGIN: KINGUNLOCK | Email: imrangk800@gmail.com | Total Credit: 37.0",
     "[2026-11-16 23:41:14] START XIAOMI FRP OPERATION: imrangk800@gmail.com | Credit: 37.0",
     "[2026-11-16 23:41:19] XIAOMI FRP FAILED/AUTH_FAIL: imrangk800@gmail.com | Credit: 37.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 15ccd2b8\nModel: kunzite_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.304.0.WPQINXM\nRegion: IN\nMi Token: [ 8VQEBJQEQNWQ0NTI5YzgxMzBmYTZiM ]\n\nGenerating blob key... OK\nServer Error: Endpoint disabled\n",
-    "[2026-11-16 23:42:58] START XIAOMI FRP OPERATION: imrangk800@gmail.com | Credit: 37.0"
+    "[2026-11-16 23:42:58] START XIAOMI FRP OPERATION: imrangk800@gmail.com | Credit: 37.0",
+    "[2026-11-16 23:43:01] XIAOMI FRP FAILED/AUTH_FAIL: imrangk800@gmail.com | Credit: 37.0\nFull Logs:\nOperation: Factory Reset & FRP\nSerial: 15ccd2b8\nModel: kunzite_in_global\nAndroid Version: 16\nMIUI/HyperOS Version: OS3.0.304.0.WPQINXM\nRegion: IN\nMi Token: [ 8VQEBJQEQN2Y4YTAyYmEwZDQ2MzA5M ]\n\nGenerating blob key... OK\nServer Error: Endpoint disabled\n"
 ]
